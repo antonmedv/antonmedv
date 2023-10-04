@@ -1,4 +1,3 @@
-# antonmedv
 
 <!-- my-badges start -->
 <h4><a href="https://github.com/my-badges">My Badges</a></h4>
