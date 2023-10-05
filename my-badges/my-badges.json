@@ -28,5 +28,41 @@
     "desc": "I collected 100 stars.",
     "body": "",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-100.png?raw=true"
+  },
+  {
+    "id": "stars-500",
+    "desc": "I collected 500 stars.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-500.png?raw=true"
+  },
+  {
+    "id": "stars-1000",
+    "desc": "I collected 1000 stars.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-1000.png?raw=true"
+  },
+  {
+    "id": "stars-2000",
+    "desc": "I collected 2000 stars.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-2000.png?raw=true"
+  },
+  {
+    "id": "stars-5000",
+    "desc": "I collected 5000 stars.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-5000.png?raw=true"
+  },
+  {
+    "id": "stars-10000",
+    "desc": "I collected 10000 stars.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-10000.png?raw=true"
+  },
+  {
+    "id": "stars-20000",
+    "desc": "I collected 20000 stars.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-20000.png?raw=true"
   }
 ]
