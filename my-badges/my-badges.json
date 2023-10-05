@@ -22,5 +22,11 @@
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/antonmedv/prettyjson/commit/ab6d2d7b7b8049efc9f47105200260e31bed74af\"><strong>ab</strong>6d2d7b7b8049efc9f47105200260e31bed74af</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "stars-100",
+    "desc": "I collected 100 stars.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-100.png?raw=true"
   }
 ]
