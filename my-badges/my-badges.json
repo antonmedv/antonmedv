@@ -64,5 +64,23 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/antonmedv/lazy-chain/commit/e55f656fba7ebd3aead79f4386c85283369f13dc\">e55f656</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+  },
+  {
+    "id": "morning-commits",
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/antonmedv/fx/commit/ed6130907eb3cbfb6cdcce3856350c3e7bc05e8d\">ed61309</a>\n- <a href=\"https://github.com/antonmedv/fx/commit/6da433446c24082ac2da36da7d391b20bb73dffd\">6da4334</a>\n- <a href=\"https://github.com/antonmedv/fx/commit/c456134a7155ed766621cc6b8069b4760ba757d6\">c456134</a>\n- <a href=\"https://github.com/antonmedv/fx/commit/7f53e96a9330909945a4e47fd2fabe325e6d43a7\">7f53e96</a>\n- <a href=\"https://github.com/antonmedv/expr/commit/42135c7ab80a3dd605997ddff866e2a25c802ddf\">42135c7</a>\n- <a href=\"https://github.com/antonmedv/expr/commit/f4accb8e4a7f16817fa09c8897337dc1929eaecf\">f4accb8</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/antonmedv/antonmedv/commit/c2f18e273d0b8d1589a39fd6bb00508453d95c53\">c2f18e2</a>\n- <a href=\"https://github.com/antonmedv/.github/commit/e75a3c49fb191659d437a979be24f61ff2ee97ac\">e75a3c4</a>\n- <a href=\"https://github.com/antonmedv/fx/commit/1d02a1fd3315552d925a5491b85fe3dea5b4f53c\">1d02a1f</a>\n- <a href=\"https://github.com/antonmedv/fx/commit/6181342e08e020047b31c17659014450ef855d1e\">6181342</a>\n- <a href=\"https://github.com/antonmedv/fx/commit/c861b448fd755b472082f27a6c189404b647534a\">c861b44</a>\n- <a href=\"https://github.com/antonmedv/fx/commit/7391b11e457ffd09626b06b39c8a3db97a805a8a\">7391b11</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "midnight-commits",
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/google/zx/commit/17bf4ed3ee6fbbe84782fd166ca7dbdd7166b013\">17bf4ed</a>\n- <a href=\"https://github.com/google/zx/commit/663ee004525ad10070d166014367e2426f830478\">663ee00</a>\n- <a href=\"https://github.com/antonmedv/fx/commit/477f89c783f0290fa5c30f272ec42da841038163\">477f89c</a>\n- <a href=\"https://github.com/google/zx/commit/d5aa01b6789f1f6e4d5356feae00dfc8cae43a04\">d5aa01b</a>\n- <a href=\"https://github.com/antonmedv/fx/commit/f47c8e8c677ff0e2ef6acaabc6c0f7e1da2eac3b\">f47c8e8</a>\n- <a href=\"https://github.com/antonmedv/codejar/commit/a8171d751a9e47c02825ffa058267a96211220e2\">a8171d7</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
   }
 ]
