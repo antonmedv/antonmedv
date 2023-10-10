@@ -17,4 +17,10 @@
 <a href="my-badges/star-gazer.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/star-gazer/star-gazer.png?raw=true" alt="I&apos;m a star gazer!" title="I&apos;m a star gazer!" width="64"></a>
 <a href="my-badges/mass-delete-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <a href="my-badges/mass-delete-commit-10k.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
+<a href="my-badges/my-badges-contributor.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" title="I contributed to &lt;https://github.com/my-badges/my-badges&gt;!" width="64"></a>
+<a href="my-badges/fix-2.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
+<a href="my-badges/fix-3.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-3.png?raw=true" alt="I did 3 sequential fixes." title="I did 3 sequential fixes." width="64"></a>
+<a href="my-badges/fix-4.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-4.png?raw=true" alt="I did 4 sequential fixes." title="I did 4 sequential fixes." width="64"></a>
+<a href="my-badges/fix-6+.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-6+.png?raw=true" alt="I did 8 sequential fixes." title="I did 8 sequential fixes." width="64"></a>
 <!-- my-badges end -->
+
