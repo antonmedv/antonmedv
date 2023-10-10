@@ -88,5 +88,35 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/antonmedv/lazy-chain/commit/e55f656fba7ebd3aead79f4386c85283369f13dc\">e55f656</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
+  },
+  {
+    "id": "my-badges-contributor",
+    "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/1\">#1</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true"
+  },
+  {
+    "id": "fix-2",
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/google/zx/commit/402c892473a67b11774c68dfafb719a80f11e2f1\">402c892</a>: Fix bug with path importing\n- <a href=\"https://github.com/google/zx/commit/5b2c8049e591b4aa71a4216cda8073f392aa36e8\">5b2c804</a>: Fix code style",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+  },
+  {
+    "id": "fix-3",
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/antonmedv/expr/commit/947771f04c8b15a6e50bff3dbebc388b8d0bbf72\">947771f</a>: Fix type checker for range operator\n- <a href=\"https://github.com/antonmedv/expr/commit/d06fea95b1d7c4a959dea8d9119b00ccfd0bc33e\">d06fea9</a>: Fix lexer to emit correct location with range operator\n- <a href=\"https://github.com/antonmedv/expr/commit/9217dda7b2c6f0fcb927e977c9396ce316fda89f\">9217dda</a>: Fix exponent parse error",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-3.png?raw=true"
+  },
+  {
+    "id": "fix-4",
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/google/zx/commit/2ec0f0321fd43ceedd0287b96d07b674b2c34a6b\">2ec0f03</a>: Fix circular dependencies\n- <a href=\"https://github.com/google/zx/commit/ce44ec9de833ad59721e76a3a4f1acfeb9ee8b32\">ce44ec9</a>: Fix code style\n- <a href=\"https://github.com/google/zx/commit/1beb649160de2ce501d4c771a439f1094df3d5eb\">1beb649</a>: Fix which import\n- <a href=\"https://github.com/google/zx/commit/ad7a2cb3d7a17987760fa8a7570c87cbff0275cc\">ad7a2cb</a>: Fix exporting of log",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-4.png?raw=true"
+  },
+  {
+    "id": "fix-6+",
+    "desc": "I did 8 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/antonmedv/fx/commit/04693455c40d3931588f9282bc63097580f7e6c0\">0469345</a>: Fix release.yml\n- <a href=\"https://github.com/antonmedv/fx/commit/33f25646c53e62725eaafb6d805d41fedbafedda\">33f2564</a>: Fix release.yml\n- <a href=\"https://github.com/antonmedv/fx/commit/a406596b466fd648f3c806e09da1bdd43235fe75\">a406596</a>: Fix release.yml\n- <a href=\"https://github.com/antonmedv/fx/commit/b0045d03a93c1a06dc3484f6608a96f932eabca7\">b0045d0</a>: Fix release.yml\n- <a href=\"https://github.com/antonmedv/fx/commit/a01be393899c89be82b3b14e8d980b17261d673e\">a01be39</a>: Fix release.yml\n- <a href=\"https://github.com/antonmedv/fx/commit/918ba6b566a890e9bb977bb4753d6a02d830ee7d\">918ba6b</a>: Fix release.yml\n- <a href=\"https://github.com/antonmedv/fx/commit/710cf5831043209f605226e13c0d0e918e196bdf\">710cf58</a>: Fix release.yml\n- <a href=\"https://github.com/antonmedv/fx/commit/8386ba7d9116d14478e10d0b2129722dbdf0357e\">8386ba7</a>: Fix release.yml",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-6+.png?raw=true"
   }
 ]
