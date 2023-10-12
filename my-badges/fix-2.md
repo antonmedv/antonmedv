@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/google/zx/commit/402c892473a67b11774c68dfafb719a80f11e2f1">402c892</a>: Fix bug with path importing
-- <a href="https://github.com/google/zx/commit/5b2c8049e591b4aa71a4216cda8073f392aa36e8">5b2c804</a>: Fix code style
+- <a href="https://github.com/antonmedv/ll/commit/c6763469d80c7b4174c42fa34e8c1d7df097274e">c676346</a>: fix subpath detection
+- <a href="https://github.com/antonmedv/ll/commit/3b47d1eebe718e6d8401b5ad21683037e44f4ba1">3b47d1e</a>: fix typo in comment
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
