@@ -4,10 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/google/zx/commit/2ec0f0321fd43ceedd0287b96d07b674b2c34a6b">2ec0f03</a>: Fix circular dependencies
-- <a href="https://github.com/google/zx/commit/ce44ec9de833ad59721e76a3a4f1acfeb9ee8b32">ce44ec9</a>: Fix code style
-- <a href="https://github.com/google/zx/commit/1beb649160de2ce501d4c771a439f1094df3d5eb">1beb649</a>: Fix which import
-- <a href="https://github.com/google/zx/commit/ad7a2cb3d7a17987760fa8a7570c87cbff0275cc">ad7a2cb</a>: Fix exporting of log
+- <a href="https://github.com/antonmedv/expr/commit/b062494f3c863d0dfabf0eff469b42f995b0693e">b062494</a>: Fix: correctly check error type of func return types
+- <a href="https://github.com/antonmedv/expr/commit/629453d18ab15bc4af9237c458493f292319e7ee">629453d</a>: Fix: use CallTyped for methods as well
+- <a href="https://github.com/antonmedv/expr/commit/9009d4da3de69a1e5dcbb284a9140129939de6f1">9009d4d</a>: Fix CallFastTyped detection
+- <a href="https://github.com/antonmedv/expr/commit/5366e576a3a08788c5d3463e95a489d86c9d79fa">5366e57</a>: Fix checker: allow to use any as key in maps
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
