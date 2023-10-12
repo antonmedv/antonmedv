@@ -1,10 +1,10 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/webpod/red/commit/aaf5c3a9c01965faef5a6e7dca585f224381e69e\"><strong>a</strong>af5c3a9c01965faef5a6e7dca585f224381e69e</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/antonmedv/prettyjson/commit/ab6d2d7b7b8049efc9f47105200260e31bed74af\"><strong>ab</strong>6d2d7b7b8049efc9f47105200260e31bed74af</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
   },
   {
     "id": "ab-commit",
@@ -14,11 +14,11 @@
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
   },
   {
-    "id": "stars-100",
-    "tier": 1,
-    "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/antonmedv/homebrew-core\">antonmedv/homebrew-core: ★1</a>\n* <a href=\"https://github.com/antonmedv/mx\">antonmedv/mx: ★1</a>\n* <a href=\"https://github.com/antonmedv/numbr.dev\">antonmedv/numbr.dev: ★1</a>\n* <a href=\"https://github.com/antonmedv/tto\">antonmedv/tto: ★1</a>\n* <a href=\"https://github.com/antonmedv/morrow\">antonmedv/morrow: ★3</a>\n* <a href=\"https://github.com/antonmedv/lazy-chain\">antonmedv/lazy-chain: ★4</a>\n* <a href=\"https://github.com/antonmedv/sshlogger\">antonmedv/sshlogger: ★4</a>\n* <a href=\"https://github.com/antonmedv/clipboard\">antonmedv/clipboard: ★5</a>\n* <a href=\"https://github.com/antonmedv/find-npm-name\">antonmedv/find-npm-name: ★5</a>\n* <a href=\"https://github.com/antonmedv/mustcheck\">antonmedv/mustcheck: ★5</a>\n* <a href=\"https://github.com/antonmedv/fx-theme-night\">antonmedv/fx-theme-night: ★6</a>\n* <a href=\"https://github.com/antonmedv/granula\">antonmedv/granula: ★7</a>\n* <a href=\"https://github.com/antonmedv/kot\">antonmedv/kot: ★7</a>\n* <a href=\"https://github.com/antonmedv/blessed\">antonmedv/blessed: ★8</a>\n* <a href=\"https://github.com/antonmedv/fx-theme-monokai\">antonmedv/fx-theme-monokai: ★8</a>\n* <a href=\"https://github.com/antonmedv/is-it-cloudy\">antonmedv/is-it-cloudy: ★8</a>\n* <a href=\"https://github.com/antonmedv/list\">antonmedv/list: ★9</a>\n* <a href=\"https://github.com/antonmedv/prettyjson\">antonmedv/prettyjson: ★9</a>\n* <a href=\"https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api\">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-100.png?raw=true"
+    "id": "stars-20000",
+    "tier": 7,
+    "desc": "I collected 20000 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/antonmedv/fx\">antonmedv/fx: ★17481</a>\n* <a href=\"https://github.com/antonmedv/expr\">antonmedv/expr: ★4540</a>\n* <a href=\"https://github.com/antonmedv/walk\">antonmedv/walk: ★2603</a>\n* <a href=\"https://github.com/antonmedv/codejar\">antonmedv/codejar: ★1589</a>\n* <a href=\"https://github.com/antonmedv/monkberry\">antonmedv/monkberry: ★1496</a>\n* <a href=\"https://github.com/webpod/red\">webpod/red: ★1447</a>\n* <a href=\"https://github.com/antonmedv/finder\">antonmedv/finder: ★1041</a>\n* <a href=\"https://github.com/antonmedv/countdown\">antonmedv/countdown: ★985</a>\n* <a href=\"https://github.com/antonmedv/numbr\">antonmedv/numbr: ★388</a>\n* <a href=\"https://github.com/antonmedv/eat\">antonmedv/eat: ★288</a>\n* <a href=\"https://github.com/antonmedv/console\">antonmedv/console: ★268</a>\n* <a href=\"https://github.com/antonmedv/gofx\">antonmedv/gofx: ★233</a>\n* <a href=\"https://github.com/antonmedv/ultra-tiny-compiler\">antonmedv/ultra-tiny-compiler: ★180</a>\n* <a href=\"https://github.com/antonmedv/jsize\">antonmedv/jsize: ★177</a>\n* <a href=\"https://github.com/antonmedv/fx-completion\">antonmedv/fx-completion: ★168</a>\n* <a href=\"https://github.com/antonmedv/watch\">antonmedv/watch: ★154</a>\n* <a href=\"https://github.com/antonmedv/spark\">antonmedv/spark: ★132</a>\n* <a href=\"https://github.com/antonmedv/cherimola\">antonmedv/cherimola: ★108</a>\n* <a href=\"https://github.com/antonmedv/silicone-skeleton\">antonmedv/silicone-skeleton: ★106</a>\n* <a href=\"https://github.com/antonmedv/purephp\">antonmedv/purephp: ★89</a>\n* <a href=\"https://github.com/antonmedv/webcrypt\">antonmedv/webcrypt: ★61</a>\n* <a href=\"https://github.com/antonmedv/tinysh\">antonmedv/tinysh: ★58</a>\n* <a href=\"https://github.com/antonmedv/chat\">antonmedv/chat: ★54</a>\n* <a href=\"https://github.com/antonmedv/fast-json\">antonmedv/fast-json: ★53</a>\n* <a href=\"https://github.com/antonmedv/ll\">antonmedv/ll: ★43</a>\n* <a href=\"https://github.com/antonmedv/golang-expression-evaluation-comparison\">antonmedv/golang-expression-evaluation-comparison: ★41</a>\n* <a href=\"https://github.com/antonmedv/asciitree\">antonmedv/asciitree: ★34</a>\n* <a href=\"https://github.com/antonmedv/homer\">antonmedv/homer: ★28</a>\n* <a href=\"https://github.com/antonmedv/damka\">antonmedv/damka: ★18</a>\n* <a href=\"https://github.com/antonmedv/svg-embed\">antonmedv/svg-embed: ★16</a>\n* <a href=\"https://github.com/antonmedv/year\">antonmedv/year: ★13</a>\n* <a href=\"https://github.com/antonmedv/silicone\">antonmedv/silicone: ★10</a>\n* <a href=\"https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api\">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>\n* <a href=\"https://github.com/antonmedv/prettyjson\">antonmedv/prettyjson: ★9</a>\n* <a href=\"https://github.com/antonmedv/list\">antonmedv/list: ★9</a>\n* <a href=\"https://github.com/antonmedv/is-it-cloudy\">antonmedv/is-it-cloudy: ★8</a>\n* <a href=\"https://github.com/antonmedv/fx-theme-monokai\">antonmedv/fx-theme-monokai: ★8</a>\n* <a href=\"https://github.com/antonmedv/blessed\">antonmedv/blessed: ★8</a>\n* <a href=\"https://github.com/antonmedv/kot\">antonmedv/kot: ★7</a>\n* <a href=\"https://github.com/antonmedv/granula\">antonmedv/granula: ★7</a>\n* <a href=\"https://github.com/antonmedv/fx-theme-night\">antonmedv/fx-theme-night: ★6</a>\n* <a href=\"https://github.com/antonmedv/mustcheck\">antonmedv/mustcheck: ★5</a>\n* <a href=\"https://github.com/antonmedv/find-npm-name\">antonmedv/find-npm-name: ★5</a>\n* <a href=\"https://github.com/antonmedv/clipboard\">antonmedv/clipboard: ★5</a>\n* <a href=\"https://github.com/antonmedv/sshlogger\">antonmedv/sshlogger: ★4</a>\n* <a href=\"https://github.com/antonmedv/lazy-chain\">antonmedv/lazy-chain: ★4</a>\n* <a href=\"https://github.com/antonmedv/morrow\">antonmedv/morrow: ★3</a>\n* <a href=\"https://github.com/antonmedv/tto\">antonmedv/tto: ★1</a>\n* <a href=\"https://github.com/antonmedv/numbr.dev\">antonmedv/numbr.dev: ★1</a>\n* <a href=\"https://github.com/antonmedv/mx\">antonmedv/mx: ★1</a>\n* <a href=\"https://github.com/antonmedv/homebrew-core\">antonmedv/homebrew-core: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-20000.png?raw=true"
   },
   {
     "id": "stars-500",
@@ -73,7 +73,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/antonmedv/antonmedv/commit/02f4ce1e25ecbc43cb3226c5419ca874baff38f2\">02f4ce1</a>\n- <a href=\"https://github.com/antonmedv/antonmedv/commit/c2f18e273d0b8d1589a39fd6bb00508453d95c53\">c2f18e2</a>\n- <a href=\"https://github.com/antonmedv/.github/commit/e75a3c49fb191659d437a979be24f61ff2ee97ac\">e75a3c4</a>\n- <a href=\"https://github.com/antonmedv/fx/commit/1d02a1fd3315552d925a5491b85fe3dea5b4f53c\">1d02a1f</a>\n- <a href=\"https://github.com/antonmedv/fx/commit/6181342e08e020047b31c17659014450ef855d1e\">6181342</a>\n- <a href=\"https://github.com/antonmedv/fx/commit/c861b448fd755b472082f27a6c189404b647534a\">c861b44</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/antonmedv/antonmedv/commit/97d42d103471c325d893374c254798f701860ab1\">97d42d1</a>\n- <a href=\"https://github.com/antonmedv/antonmedv/commit/02f4ce1e25ecbc43cb3226c5419ca874baff38f2\">02f4ce1</a>\n- <a href=\"https://github.com/antonmedv/antonmedv/commit/c2f18e273d0b8d1589a39fd6bb00508453d95c53\">c2f18e2</a>\n- <a href=\"https://github.com/antonmedv/.github/commit/e75a3c49fb191659d437a979be24f61ff2ee97ac\">e75a3c4</a>\n- <a href=\"https://github.com/antonmedv/fx/commit/1d02a1fd3315552d925a5491b85fe3dea5b4f53c\">1d02a1f</a>\n- <a href=\"https://github.com/antonmedv/fx/commit/6181342e08e020047b31c17659014450ef855d1e\">6181342</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -91,11 +91,11 @@
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/star-gazer/star-gazer.png?raw=true"
   },
   {
-    "id": "mass-delete-commit",
-    "tier": 1,
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/antonmedv/mx/commit/17b1293dc8caccdb86f3c97810ad3035170f349c\">17b1293</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit.png?raw=true"
+    "body": "Commits:\n\n- <a href=\"https://github.com/antonmedv/lazy-chain/commit/e55f656fba7ebd3aead79f4386c85283369f13dc\">e55f656</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/mass-delete-commit/mass-delete-commit-10k.png?raw=true"
   },
   {
     "id": "mass-delete-commit-10k",
@@ -112,11 +112,11 @@
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true"
   },
   {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/antonmedv/ll/commit/c6763469d80c7b4174c42fa34e8c1d7df097274e\">c676346</a>: fix subpath detection\n- <a href=\"https://github.com/antonmedv/ll/commit/3b47d1eebe718e6d8401b5ad21683037e44f4ba1\">3b47d1e</a>: fix typo in comment",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 8 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/antonmedv/fx/commit/04693455c40d3931588f9282bc63097580f7e6c0\">0469345</a>: Fix release.yml\n- <a href=\"https://github.com/antonmedv/fx/commit/33f25646c53e62725eaafb6d805d41fedbafedda\">33f2564</a>: Fix release.yml\n- <a href=\"https://github.com/antonmedv/fx/commit/a406596b466fd648f3c806e09da1bdd43235fe75\">a406596</a>: Fix release.yml\n- <a href=\"https://github.com/antonmedv/fx/commit/b0045d03a93c1a06dc3484f6608a96f932eabca7\">b0045d0</a>: Fix release.yml\n- <a href=\"https://github.com/antonmedv/fx/commit/a01be393899c89be82b3b14e8d980b17261d673e\">a01be39</a>: Fix release.yml\n- <a href=\"https://github.com/antonmedv/fx/commit/918ba6b566a890e9bb977bb4753d6a02d830ee7d\">918ba6b</a>: Fix release.yml\n- <a href=\"https://github.com/antonmedv/fx/commit/710cf5831043209f605226e13c0d0e918e196bdf\">710cf58</a>: Fix release.yml\n- <a href=\"https://github.com/antonmedv/fx/commit/8386ba7d9116d14478e10d0b2129722dbdf0357e\">8386ba7</a>: Fix release.yml",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-6+.png?raw=true"
   },
   {
     "id": "fix-3",
@@ -175,11 +175,11 @@
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
   },
   {
-    "id": "pr-collaboration-5",
-    "tier": 1,
-    "desc": "I have participated in pull requests with 5 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/symfony/symfony/pull/5389\">#5389</a>: Possibility to extend the TemplateFinder",
-    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-5.png?raw=true"
+    "id": "pr-collaboration-15",
+    "tier": 3,
+    "desc": "I have participated in pull requests with 15 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/deployphp/deployer/pull/2994\">#2994</a>: Push to v8",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/pr-collaboration-15.png?raw=true"
   },
   {
     "id": "pr-collaboration-10",
