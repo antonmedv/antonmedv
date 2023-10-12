@@ -4,10 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/antonmedv/expr/commit/b062494f3c863d0dfabf0eff469b42f995b0693e">b062494</a>: Fix: correctly check error type of func return types
-- <a href="https://github.com/antonmedv/expr/commit/629453d18ab15bc4af9237c458493f292319e7ee">629453d</a>: Fix: use CallTyped for methods as well
-- <a href="https://github.com/antonmedv/expr/commit/9009d4da3de69a1e5dcbb284a9140129939de6f1">9009d4d</a>: Fix CallFastTyped detection
-- <a href="https://github.com/antonmedv/expr/commit/5366e576a3a08788c5d3463e95a489d86c9d79fa">5366e57</a>: Fix checker: allow to use any as key in maps
+- <a href="https://github.com/antonmedv/expr/commit/f383e06071d372e613aaa9b7329019c37b12159b">f383e06</a>: Fix panic in checker
+- <a href="https://github.com/antonmedv/expr/commit/87e38b17441fba0c5691cccf545ef835c74224c3">87e38b1</a>: Fix panic in checker
+- <a href="https://github.com/antonmedv/expr/commit/39c9df602b5b19499994b6a2568d3a171d897ac8">39c9df6</a>: Fix panic in checker
+- <a href="https://github.com/antonmedv/expr/commit/931dbf3ecd990b36ec980b97df4a522d65b1c021">931dbf3</a>: Fix date test
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
