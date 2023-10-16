@@ -1,5 +1,5 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to [My Badges](https://github.com/my-badges/my-badges)!" title="I contributed to [My Badges](https://github.com/my-badges/my-badges)!" width="128">
-<strong>I contributed to [My Badges](https://github.com/my-badges/my-badges)!</strong>
+<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/my-badges-contributor/my-badges-contributor.png?raw=true" alt="I contributed to &lt;a href=&quot;https://github.com/my-badges/my-badges&quot;&gt;My Badges&lt;/a&gt;!" title="I contributed to &lt;a href=&quot;https://github.com/my-badges/my-badges&quot;&gt;My Badges&lt;/a&gt;!" width="128">
+<strong>I contributed to &lt;a href=&quot;https://github.com/my-badges/my-badges&quot;&gt;My Badges&lt;/a&gt;!</strong>
 <br><br>
 
 Pull requests:
