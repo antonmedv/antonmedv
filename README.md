@@ -3,6 +3,9 @@
 
 <a href="my-badges/a-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
+<a href="my-badges/abc-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/abc-commit.png?raw=true" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
+<a href="my-badges/abcd-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/abcd-commit.png?raw=true" alt="One of my commit sha starts with &quot;abcd&quot;." title="One of my commit sha starts with &quot;abcd&quot;." width="64"></a>
+<a href="my-badges/abcde-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/abcde-commit.png?raw=true" alt="One of my commit sha starts with &quot;abcde&quot;." title="One of my commit sha starts with &quot;abcde&quot;." width="64"></a>
 <a href="my-badges/abcdef-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/abcdef-commit.png?raw=true" alt="One of my commit sha starts with &quot;abcdef&quot;." title="One of my commit sha starts with &quot;abcdef&quot;." width="64"></a>
 <a href="my-badges/stars-100.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-100.png?raw=true" alt="I collected 100 stars." title="I collected 100 stars." width="64"></a>
 <a href="my-badges/stars-500.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/stars/stars-500.png?raw=true" alt="I collected 500 stars." title="I collected 500 stars." width="64"></a>
@@ -38,3 +41,4 @@
 <a href="my-badges/this-is-fine.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/this-is-fine/this-is-fine.png?raw=true" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/the-ultimate-question/the-ultimate-question.png?raw=true" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
 <!-- my-badges end -->
+

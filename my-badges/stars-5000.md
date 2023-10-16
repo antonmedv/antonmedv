@@ -6,7 +6,7 @@ Repos:
 
 * <a href="https://github.com/webpod/red">webpod/red: ★1447</a>
 * <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1040</a>
-* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★986</a>
+* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★987</a>
 * <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★392</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★288</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★268</a>
