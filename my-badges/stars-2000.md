@@ -15,7 +15,7 @@ Repos:
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★106</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★89</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★61</a>
-* <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★58</a>
+* <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★59</a>
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★54</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★53</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★43</a>
