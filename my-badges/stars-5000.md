@@ -5,8 +5,8 @@
 Repos:
 
 * <a href="https://github.com/webpod/red">webpod/red: ★1448</a>
-* <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1044</a>
-* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★990</a>
+* <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1045</a>
+* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★992</a>
 * <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★400</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★288</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★268</a>
@@ -27,7 +27,7 @@ Repos:
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★40</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★34</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★28</a>
-* <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★18</a>
+* <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★19</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
 * <a href="https://github.com/antonmedv/year">antonmedv/year: ★13</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
