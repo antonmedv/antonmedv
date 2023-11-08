@@ -9,7 +9,7 @@ Repos:
 * <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★180</a>
 * <a href="https://github.com/antonmedv/jsize">antonmedv/jsize: ★177</a>
 * <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★168</a>
-* <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★154</a>
+* <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★155</a>
 * <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★133</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★108</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★106</a>
@@ -35,13 +35,14 @@ Repos:
 * <a href="https://github.com/antonmedv/kot">antonmedv/kot: ★7</a>
 * <a href="https://github.com/antonmedv/granula">antonmedv/granula: ★7</a>
 * <a href="https://github.com/antonmedv/fx-theme-night">antonmedv/fx-theme-night: ★6</a>
+* <a href="https://github.com/antonmedv/sshlogger">antonmedv/sshlogger: ★5</a>
 * <a href="https://github.com/antonmedv/mustcheck">antonmedv/mustcheck: ★5</a>
 * <a href="https://github.com/antonmedv/find-npm-name">antonmedv/find-npm-name: ★5</a>
 * <a href="https://github.com/antonmedv/clipboard">antonmedv/clipboard: ★5</a>
-* <a href="https://github.com/antonmedv/sshlogger">antonmedv/sshlogger: ★4</a>
 * <a href="https://github.com/antonmedv/lazy-chain">antonmedv/lazy-chain: ★4</a>
 * <a href="https://github.com/antonmedv/morrow">antonmedv/morrow: ★3</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
+* <a href="https://github.com/antonmedv/oss-fuzz">antonmedv/oss-fuzz: ★1</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★1</a>
 * <a href="https://github.com/antonmedv/mx">antonmedv/mx: ★1</a>
 * <a href="https://github.com/antonmedv/homebrew-core">antonmedv/homebrew-core: ★1</a>
