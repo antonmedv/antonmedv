@@ -11,8 +11,8 @@ Repos:
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★89</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★61</a>
 * <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★61</a>
-* <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★54</a>
-* <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★53</a>
+* <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★53</a>
+* <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★52</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★44</a>
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★41</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★34</a>
