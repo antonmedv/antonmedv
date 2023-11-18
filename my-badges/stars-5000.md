@@ -6,7 +6,7 @@ Repos:
 
 * <a href="https://github.com/webpod/red">webpod/red: ★1448</a>
 * <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1049</a>
-* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★997</a>
+* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★996</a>
 * <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★403</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★289</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★268</a>
@@ -34,7 +34,7 @@ Repos:
 * <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>
 * <a href="https://github.com/antonmedv/prettyjson">antonmedv/prettyjson: ★9</a>
 * <a href="https://github.com/antonmedv/list">antonmedv/list: ★9</a>
-* <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★8</a>
+* <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★9</a>
 * <a href="https://github.com/antonmedv/fx-theme-monokai">antonmedv/fx-theme-monokai: ★8</a>
 * <a href="https://github.com/antonmedv/blessed">antonmedv/blessed: ★8</a>
 * <a href="https://github.com/antonmedv/kot">antonmedv/kot: ★7</a>
