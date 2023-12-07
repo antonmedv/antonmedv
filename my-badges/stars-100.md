@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
 * <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>
 * <a href="https://github.com/antonmedv/prettyjson">antonmedv/prettyjson: ★9</a>
 * <a href="https://github.com/antonmedv/list">antonmedv/list: ★9</a>
@@ -18,8 +17,8 @@ Repos:
 * <a href="https://github.com/antonmedv/find-npm-name">antonmedv/find-npm-name: ★5</a>
 * <a href="https://github.com/antonmedv/clipboard">antonmedv/clipboard: ★5</a>
 * <a href="https://github.com/antonmedv/lazy-chain">antonmedv/lazy-chain: ★4</a>
+* <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★3</a>
 * <a href="https://github.com/antonmedv/morrow">antonmedv/morrow: ★3</a>
-* <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★2</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
 * <a href="https://github.com/antonmedv/oss-fuzz">antonmedv/oss-fuzz: ★1</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★1</a>

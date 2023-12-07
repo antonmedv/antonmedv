@@ -40,8 +40,8 @@ Repos:
 * <a href="https://github.com/antonmedv/find-npm-name">antonmedv/find-npm-name: ★5</a>
 * <a href="https://github.com/antonmedv/clipboard">antonmedv/clipboard: ★5</a>
 * <a href="https://github.com/antonmedv/lazy-chain">antonmedv/lazy-chain: ★4</a>
+* <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★3</a>
 * <a href="https://github.com/antonmedv/morrow">antonmedv/morrow: ★3</a>
-* <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★2</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
 * <a href="https://github.com/antonmedv/oss-fuzz">antonmedv/oss-fuzz: ★1</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★1</a>

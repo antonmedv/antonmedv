@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/webpod/red">webpod/red: ★1452</a>
 * <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1053</a>
 * <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1001</a>
-* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★409</a>
+* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★410</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★289</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★268</a>
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★233</a>
@@ -45,8 +45,8 @@ Repos:
 * <a href="https://github.com/antonmedv/find-npm-name">antonmedv/find-npm-name: ★5</a>
 * <a href="https://github.com/antonmedv/clipboard">antonmedv/clipboard: ★5</a>
 * <a href="https://github.com/antonmedv/lazy-chain">antonmedv/lazy-chain: ★4</a>
+* <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★3</a>
 * <a href="https://github.com/antonmedv/morrow">antonmedv/morrow: ★3</a>
-* <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★2</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
 * <a href="https://github.com/antonmedv/oss-fuzz">antonmedv/oss-fuzz: ★1</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★1</a>
