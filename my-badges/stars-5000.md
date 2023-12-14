@@ -27,7 +27,7 @@ Repos:
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★42</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★35</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★28</a>
-* <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★18</a>
+* <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★19</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
 * <a href="https://github.com/antonmedv/year">antonmedv/year: ★13</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
@@ -44,8 +44,8 @@ Repos:
 * <a href="https://github.com/antonmedv/mustcheck">antonmedv/mustcheck: ★5</a>
 * <a href="https://github.com/antonmedv/find-npm-name">antonmedv/find-npm-name: ★5</a>
 * <a href="https://github.com/antonmedv/clipboard">antonmedv/clipboard: ★5</a>
+* <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★4</a>
 * <a href="https://github.com/antonmedv/lazy-chain">antonmedv/lazy-chain: ★4</a>
-* <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★3</a>
 * <a href="https://github.com/antonmedv/morrow">antonmedv/morrow: ★3</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
 * <a href="https://github.com/antonmedv/oss-fuzz">antonmedv/oss-fuzz: ★1</a>
