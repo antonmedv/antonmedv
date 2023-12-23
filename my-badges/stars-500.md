@@ -8,11 +8,11 @@ Repos:
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★62</a>
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★53</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★52</a>
-* <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★45</a>
+* <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★46</a>
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★42</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★35</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★28</a>
-* <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★19</a>
+* <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★20</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
 * <a href="https://github.com/antonmedv/year">antonmedv/year: ★13</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
@@ -32,11 +32,13 @@ Repos:
 * <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★4</a>
 * <a href="https://github.com/antonmedv/lazy-chain">antonmedv/lazy-chain: ★4</a>
 * <a href="https://github.com/antonmedv/morrow">antonmedv/morrow: ★3</a>
+* <a href="https://github.com/antonmedv/webpod-deployer">antonmedv/webpod-deployer: ★1</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
 * <a href="https://github.com/antonmedv/oss-fuzz">antonmedv/oss-fuzz: ★1</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★1</a>
 * <a href="https://github.com/antonmedv/mx">antonmedv/mx: ★1</a>
 * <a href="https://github.com/antonmedv/homebrew-core">antonmedv/homebrew-core: ★1</a>
+* <a href="https://github.com/antonmedv/antonmedv">antonmedv/antonmedv: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
