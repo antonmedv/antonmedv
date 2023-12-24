@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★63</a>
+* <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★64</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★62</a>
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★53</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★52</a>
