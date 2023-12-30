@@ -11,9 +11,9 @@ Repos:
 * <a href="https://github.com/antonmedv/blessed">antonmedv/blessed: ★8</a>
 * <a href="https://github.com/antonmedv/kot">antonmedv/kot: ★7</a>
 * <a href="https://github.com/antonmedv/granula">antonmedv/granula: ★7</a>
+* <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★6</a>
 * <a href="https://github.com/antonmedv/sshlogger">antonmedv/sshlogger: ★6</a>
 * <a href="https://github.com/antonmedv/fx-theme-night">antonmedv/fx-theme-night: ★6</a>
-* <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★5</a>
 * <a href="https://github.com/antonmedv/mustcheck">antonmedv/mustcheck: ★5</a>
 * <a href="https://github.com/antonmedv/find-npm-name">antonmedv/find-npm-name: ★5</a>
 * <a href="https://github.com/antonmedv/clipboard">antonmedv/clipboard: ★5</a>

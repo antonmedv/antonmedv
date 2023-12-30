@@ -12,7 +12,7 @@ Repos:
 * <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★64</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★62</a>
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★53</a>
-* <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★52</a>
+* <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★51</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★46</a>
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★42</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★35</a>
@@ -29,9 +29,9 @@ Repos:
 * <a href="https://github.com/antonmedv/blessed">antonmedv/blessed: ★8</a>
 * <a href="https://github.com/antonmedv/kot">antonmedv/kot: ★7</a>
 * <a href="https://github.com/antonmedv/granula">antonmedv/granula: ★7</a>
+* <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★6</a>
 * <a href="https://github.com/antonmedv/sshlogger">antonmedv/sshlogger: ★6</a>
 * <a href="https://github.com/antonmedv/fx-theme-night">antonmedv/fx-theme-night: ★6</a>
-* <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★5</a>
 * <a href="https://github.com/antonmedv/mustcheck">antonmedv/mustcheck: ★5</a>
 * <a href="https://github.com/antonmedv/find-npm-name">antonmedv/find-npm-name: ★5</a>
 * <a href="https://github.com/antonmedv/clipboard">antonmedv/clipboard: ★5</a>
