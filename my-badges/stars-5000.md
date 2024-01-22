@@ -4,9 +4,9 @@
 
 Repos:
 
-* <a href="https://github.com/webpod/red">webpod/red: ★1459</a>
+* <a href="https://github.com/webpod/red">webpod/red: ★1460</a>
 * <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1063</a>
-* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1007</a>
+* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1008</a>
 * <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★422</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★290</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★268</a>
@@ -19,7 +19,7 @@ Repos:
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★108</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★106</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★89</a>
-* <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★64</a>
+* <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★65</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★62</a>
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★53</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★52</a>
