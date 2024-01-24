@@ -5,10 +5,10 @@
 Repos:
 
 * <a href="https://github.com/webpod/red">webpod/red: ★1460</a>
-* <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1064</a>
+* <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1066</a>
 * <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1009</a>
 * <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★422</a>
-* <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★290</a>
+* <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★291</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★268</a>
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★233</a>
 * <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★180</a>
