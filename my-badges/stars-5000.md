@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/webpod/red">webpod/red: ★1459</a>
 * <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1071</a>
 * <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1011</a>
-* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★423</a>
+* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★424</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★291</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★268</a>
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★233</a>
@@ -35,9 +35,9 @@ Repos:
 * <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>
 * <a href="https://github.com/antonmedv/prettyjson">antonmedv/prettyjson: ★9</a>
 * <a href="https://github.com/antonmedv/list">antonmedv/list: ★9</a>
+* <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★8</a>
 * <a href="https://github.com/antonmedv/fx-theme-monokai">antonmedv/fx-theme-monokai: ★8</a>
 * <a href="https://github.com/antonmedv/blessed">antonmedv/blessed: ★8</a>
-* <a href="https://github.com/expr-lang/editor">expr-lang/editor: ★7</a>
 * <a href="https://github.com/antonmedv/kot">antonmedv/kot: ★7</a>
 * <a href="https://github.com/antonmedv/granula">antonmedv/granula: ★7</a>
 * <a href="https://github.com/antonmedv/sshlogger">antonmedv/sshlogger: ★6</a>
