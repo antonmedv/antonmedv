@@ -44,5 +44,6 @@
 <a href="my-badges/polite-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
 <a href="my-badges/emoji-only-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/emoji-only-commit/emoji-only-commit.png?raw=true" alt="I used only emojis in my commit message." title="I used only emojis in my commit message." width="64"></a>
 <a href="my-badges/public-keys-4.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-4.png?raw=true" alt="I have four public keys" title="I have four public keys" width="64"></a>
+<a href="my-badges/sleepy-coder.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/sleepy-coder.png?raw=true" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
 <!-- my-badges end -->
 
