@@ -5,9 +5,9 @@
 Repos:
 
 * <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1087</a>
-* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1023</a>
+* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1024</a>
 * <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★430</a>
-* <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★291</a>
+* <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★292</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★268</a>
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★233</a>
 * <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★180</a>
@@ -52,6 +52,7 @@ Repos:
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★1</a>
 * <a href="https://github.com/antonmedv/mx">antonmedv/mx: ★1</a>
 * <a href="https://github.com/antonmedv/homebrew-core">antonmedv/homebrew-core: ★1</a>
+* <a href="https://github.com/antonmedv/argo-workflows">antonmedv/argo-workflows: ★1</a>
 * <a href="https://github.com/antonmedv/antonmedv">antonmedv/antonmedv: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
