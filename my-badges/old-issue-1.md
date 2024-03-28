@@ -37,6 +37,7 @@ Issues:
 - <a href="https://github.com/argoproj/argo-workflows/issues/2356">#2356</a>: Migrate to expr
 - <a href="https://github.com/kazzkiq/CodeFlask/issues/102">#102</a>: Long line with line number become invisible
 - <a href="https://github.com/josdejong/lossless-json/issues/196">#196</a>: Config option to overflow long numbers
+- <a href="https://github.com/google/zx/issues/569">#569</a>: Set verbose=false as default
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
