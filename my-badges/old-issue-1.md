@@ -38,6 +38,7 @@ Issues:
 - <a href="https://github.com/kazzkiq/CodeFlask/issues/102">#102</a>: Long line with line number become invisible
 - <a href="https://github.com/josdejong/lossless-json/issues/196">#196</a>: Config option to overflow long numbers
 - <a href="https://github.com/google/zx/issues/569">#569</a>: Set verbose=false as default
+- <a href="https://github.com/google/zx/issues/550">#550</a>: Separate $ into zx-core
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
