@@ -9,8 +9,8 @@ Repos:
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★53</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★52</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★46</a>
-* <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★42</a>
-* <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★35</a>
+* <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★43</a>
+* <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★36</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★28</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★23</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
