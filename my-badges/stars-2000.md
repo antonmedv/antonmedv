@@ -46,7 +46,6 @@ Repos:
 * <a href="https://github.com/antonmedv/oss-fuzz">antonmedv/oss-fuzz: ★1</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★1</a>
 * <a href="https://github.com/antonmedv/mx">antonmedv/mx: ★1</a>
-* <a href="https://github.com/antonmedv/homebrew-core">antonmedv/homebrew-core: ★1</a>
 * <a href="https://github.com/antonmedv/argo-workflows">antonmedv/argo-workflows: ★1</a>
 * <a href="https://github.com/antonmedv/antonmedv">antonmedv/antonmedv: ★1</a>
 
