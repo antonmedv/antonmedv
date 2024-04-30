@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
 * <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>
 * <a href="https://github.com/antonmedv/prettyjson">antonmedv/prettyjson: ★9</a>
 * <a href="https://github.com/antonmedv/list">antonmedv/list: ★9</a>
@@ -24,6 +23,7 @@ Repos:
 * <a href="https://github.com/antonmedv/oss-fuzz">antonmedv/oss-fuzz: ★1</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★1</a>
 * <a href="https://github.com/antonmedv/mx">antonmedv/mx: ★1</a>
+* <a href="https://github.com/antonmedv/awesome-github-profile-readme">antonmedv/awesome-github-profile-readme: ★1</a>
 * <a href="https://github.com/antonmedv/argo-workflows">antonmedv/argo-workflows: ★1</a>
 * <a href="https://github.com/antonmedv/antonmedv">antonmedv/antonmedv: ★1</a>
 
