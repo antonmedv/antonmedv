@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★158</a>
-* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★136</a>
+* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★137</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★108</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★106</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★89</a>
