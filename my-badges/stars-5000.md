@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1288</a>
-* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1038</a>
+* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1039</a>
 * <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★457</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★292</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★268</a>
@@ -23,7 +23,7 @@ Repos:
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★53</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★52</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★45</a>
-* <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★43</a>
+* <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★44</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★36</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★28</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★24</a>
