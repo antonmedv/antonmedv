@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★158</a>
 * <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★137</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★108</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★105</a>
@@ -27,9 +26,9 @@ Repos:
 * <a href="https://github.com/antonmedv/list">antonmedv/list: ★9</a>
 * <a href="https://github.com/antonmedv/fx-theme-monokai">antonmedv/fx-theme-monokai: ★8</a>
 * <a href="https://github.com/antonmedv/blessed">antonmedv/blessed: ★8</a>
+* <a href="https://github.com/antonmedv/sshlogger">antonmedv/sshlogger: ★7</a>
 * <a href="https://github.com/antonmedv/kot">antonmedv/kot: ★7</a>
 * <a href="https://github.com/antonmedv/granula">antonmedv/granula: ★7</a>
-* <a href="https://github.com/antonmedv/sshlogger">antonmedv/sshlogger: ★6</a>
 * <a href="https://github.com/antonmedv/fx-theme-night">antonmedv/fx-theme-night: ★6</a>
 * <a href="https://github.com/antonmedv/mustcheck">antonmedv/mustcheck: ★5</a>
 * <a href="https://github.com/antonmedv/find-npm-name">antonmedv/find-npm-name: ★5</a>
