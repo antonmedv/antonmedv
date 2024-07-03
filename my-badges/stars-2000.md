@@ -20,7 +20,7 @@ Repos:
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★52</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★45</a>
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★44</a>
-* <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★36</a>
+* <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★37</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★28</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★24</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
@@ -41,12 +41,13 @@ Repos:
 * <a href="https://github.com/antonmedv/clipboard">antonmedv/clipboard: ★5</a>
 * <a href="https://github.com/antonmedv/lazy-chain">antonmedv/lazy-chain: ★4</a>
 * <a href="https://github.com/antonmedv/morrow">antonmedv/morrow: ★3</a>
+* <a href="https://github.com/antonmedv/awesome-github-profile-readme">antonmedv/awesome-github-profile-readme: ★2</a>
 * <a href="https://github.com/antonmedv/webpod-deployer">antonmedv/webpod-deployer: ★1</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
 * <a href="https://github.com/antonmedv/oss-fuzz">antonmedv/oss-fuzz: ★1</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★1</a>
 * <a href="https://github.com/antonmedv/mx">antonmedv/mx: ★1</a>
-* <a href="https://github.com/antonmedv/awesome-github-profile-readme">antonmedv/awesome-github-profile-readme: ★1</a>
+* <a href="https://github.com/antonmedv/awesome-readme-tools">antonmedv/awesome-readme-tools: ★1</a>
 * <a href="https://github.com/antonmedv/argo-workflows">antonmedv/argo-workflows: ★1</a>
 * <a href="https://github.com/antonmedv/antonmedv">antonmedv/antonmedv: ★1</a>
 
