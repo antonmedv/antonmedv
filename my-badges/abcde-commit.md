@@ -1,4 +1,4 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/abcde-commit.png?raw=true" alt="One of my commit sha starts with &quot;abcde&quot;." title="One of my commit sha starts with &quot;abcde&quot;." width="128">
+<img src="https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/abcde-commit.png?raw=true" alt="One of my commit sha starts with &quot;abcde&quot;." title="One of my commit sha starts with &quot;abcde&quot;." width="128">
 <strong>One of my commit sha starts with &quot;abcde&quot;.</strong>
 <br><br>
 

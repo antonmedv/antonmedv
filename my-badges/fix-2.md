@@ -1,11 +1,13 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="128">
+<img src="https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-2.png?raw=true" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="128">
 <strong>I did 2 sequential fixes.</strong>
 <br><br>
 
 Commits:
 
-- <a href="https://github.com/antonmedv/ll/commit/c6763469d80c7b4174c42fa34e8c1d7df097274e">c676346</a>: fix subpath detection
-- <a href="https://github.com/antonmedv/ll/commit/3b47d1eebe718e6d8401b5ad21683037e44f4ba1">3b47d1e</a>: fix typo in comment
+- <a href="https://github.com/antonmedv/fx/commit/cacddc7bcb8af7c6692c3157de79a00906be67ef">cacddc7</a>: Fix pgdown for small JSON files
+
+Fixes #265
+- <a href="https://github.com/antonmedv/fx/commit/adf3775828157d903e3f32ab4023fe750fa85e68">adf3775</a>: Fix dig test
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
