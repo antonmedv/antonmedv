@@ -1,4 +1,4 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/badges/stars/stars-2000.png?raw=true" alt="I collected 2000 stars." title="I collected 2000 stars." width="128">
+<img src="https://my-badges.github.io/my-badges/stars-2000.png" alt="I collected 2000 stars." title="I collected 2000 stars." width="128">
 <strong>I collected 2000 stars.</strong>
 <br><br>
 

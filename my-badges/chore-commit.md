@@ -1,4 +1,4 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/badges/chore-commit/chore-commit.png?raw=true" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="128">
+<img src="https://my-badges.github.io/my-badges/chore-commit.png" alt="I did a little housekeeping! 🧹" title="I did a little housekeeping! 🧹" width="128">
 <strong>I did a little housekeeping! 🧹</strong>
 <br><br>
 
