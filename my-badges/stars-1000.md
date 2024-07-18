@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★137</a>
+* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★138</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★108</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★105</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★89</a>
@@ -16,7 +16,7 @@ Repos:
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★44</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★38</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★28</a>
-* <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★24</a>
+* <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★25</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
 * <a href="https://github.com/antonmedv/year">antonmedv/year: ★13</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
