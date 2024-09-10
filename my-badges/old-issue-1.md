@@ -39,6 +39,15 @@ Issues:
 - <a href="https://github.com/josdejong/lossless-json/issues/196">#196</a>: Config option to overflow long numbers
 - <a href="https://github.com/google/zx/issues/569">#569</a>: Set verbose=false as default
 - <a href="https://github.com/google/zx/issues/550">#550</a>: Separate $ into zx-core
+- <a href="https://github.com/deployphp/deployer/issues/3671">#3671</a>: Allow to continue parallel deployment if one host failed
+- <a href="https://github.com/deployphp/deployer/issues/3656">#3656</a>: YAML: allow to give description to groups tasks
+- <a href="https://github.com/deployphp/deployer/issues/3655">#3655</a>: Import in yaml should be relative to base recipe
+- <a href="https://github.com/deployphp/deployer/issues/3648">#3648</a>: It looks like this has to do with the on() function:
+- <a href="https://github.com/deployphp/deployer/issues/3644">#3644</a>: die() should kill the master
+- <a href="https://github.com/deployphp/deployer/issues/3605">#3605</a>: Autoloading of third party recipes not working
+- <a href="https://github.com/deployphp/deployer/issues/3594">#3594</a>: Importer: error if `php_fpm_version` is integer
+- <a href="https://github.com/deployphp/deployer/issues/3558">#3558</a>: Docs: add an example with bastion server
+- <a href="https://github.com/deployphp/deployer/issues/3419">#3419</a>: Add a check for non-serilizable configs
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

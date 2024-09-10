@@ -16,6 +16,7 @@ Issues:
 - <a href="https://github.com/KronicDeth/intellij-elixir/issues/897">#897</a>: How to auto-format without extra indent?
 - <a href="https://github.com/antonmedv/fx/issues/62">#62</a>: See more on first render
 - <a href="https://github.com/expr-lang/expr/issues/13">#13</a>: Add support for tags `expr:"..."`
+- <a href="https://github.com/deployphp/deployer/issues/2231">#2231</a>: Code coverage Github Action
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

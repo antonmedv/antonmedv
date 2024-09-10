@@ -30,6 +30,13 @@ Issues:
 - <a href="https://github.com/antonmedv/jsize/issues/52">#52</a>: jsize ky
 - <a href="https://github.com/f/omelette/issues/37">#37</a>: Using bash autocomplete _filedir
 - <a href="https://github.com/antonmedv/fx/issues/119">#119</a>: Argument auto-splitting
+- <a href="https://github.com/deployphp/deployer/issues/3220">#3220</a>: Add JIGSAW recipe
+- <a href="https://github.com/deployphp/deployer/issues/3219">#3219</a>: Add grav recipe
+- <a href="https://github.com/deployphp/deployer/issues/3198">#3198</a>: Implement default_selector
+- <a href="https://github.com/deployphp/deployer/issues/3073">#3073</a>: Warn about obsolete git_tty
+- <a href="https://github.com/deployphp/deployer/issues/2969">#2969</a>: Detect Motd and warn users about it
+- <a href="https://github.com/deployphp/deployer/issues/2882">#2882</a>: Do not automatically populate known_hosts
+- <a href="https://github.com/deployphp/deployer/issues/2704">#2704</a>: Add an integration test for the provision recipe
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
