@@ -10,7 +10,6 @@ Issues:
 - <a href="https://github.com/dnaber-de/WP-Colored-Coding/issues/4">#4</a>: Add Russian language!
 - <a href="https://github.com/dnaber-de/WP-Colored-Coding/issues/5">#5</a>: Code Blocks on 13'' sсreen
 - <a href="https://github.com/deployphp/deployer/issues/350">#350</a>: Web-based client
-- <a href="https://github.com/expr-lang/expr/issues/26">#26</a>: Optimize conditional jumps
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
