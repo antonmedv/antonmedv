@@ -20,7 +20,7 @@ Repos:
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★52</a>
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★48</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★47</a>
-* <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★39</a>
+* <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★40</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★28</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★26</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
