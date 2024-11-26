@@ -4,11 +4,11 @@
 
 I use words like "thanks" and "please" in my issues:
 
-- <a href="https://github.com/symfony/symfony/issues/4209">#4209</a>: AnnotationDirectoryLoader cant load Route.
-- <a href="https://github.com/andre487/php_rutils/issues/2">#2</a>: namespace php_rutils;
-- <a href="https://github.com/symfony/icu/issues/9">#9</a>: Symfony ICU on server with libicu 4.8
-- <a href="https://github.com/phpseclib/phpseclib/issues/434">#434</a>: Notice: No compatible server to client encryption algorithms found in
-- <a href="https://github.com/box-project/amend/issues/8">#8</a>: Fix source path
+- <a href="https://github.com/rstacruz/cheatsheets/issues/1168">#1168</a>: Cheatsheet request: fx
+- <a href="https://github.com/charmbracelet/lipgloss/issues/75">#75</a>: With termenv.Ascii color profile, lipgloss prints `\e[1;m`
+- <a href="https://github.com/charmbracelet/lipgloss/issues/81">#81</a>: New API: fast colors
+- <a href="https://github.com/jlevy/the-art-of-command-line/issues/771">#771</a>: Consider adding fx
+- <a href="https://github.com/charmbracelet/bubbles/issues/242">#242</a>: Show cursor in AltScreen
 
  And many more...
 
