@@ -2,16 +2,16 @@
 <strong>I have received a lot of thumbs down 👎 reactions!</strong>
 <br><br>
 
+- [28 thumbs downs](https://github.com/deployphp/deployer/issues/1388#issuecomment-337669417)
+- [16 thumbs downs](https://github.com/google/zx/issues/24#issuecomment-841667224)
 - [11 thumbs downs](https://github.com/deployphp/deployer/issues/797#issuecomment-250968370)
+- [9 thumbs downs](https://github.com/google/zx/issues/125#issuecomment-850432388)
 - [8 thumbs downs](https://github.com/symfony/symfony/issues/25643)
+- [8 thumbs downs](https://github.com/google/zx/issues/86#issuecomment-841803695)
+- [7 thumbs downs](https://github.com/google/zx/issues/152#issuecomment-900523261)
+- [5 thumbs downs](https://github.com/utterance/utterances/issues/1#issuecomment-315630670)
+- [5 thumbs downs](https://github.com/google/zx/issues/240#issuecomment-932899687)
 - [4 thumbs downs](https://github.com/expr-lang/expr/issues/45)
-- [4 thumbs downs](https://github.com/antonmedv/fx/issues/243)
-- [4 thumbs downs](https://github.com/deployphp/deployer/issues/31#issuecomment-50598411)
-- [2 thumbs downs](https://github.com/deployphp/deployer/issues/980)
-- [1 thumbs downs](https://github.com/deployphp/deployer/issues/1400)
-- [1 thumbs downs](https://github.com/deployphp/deployer/issues/1459)
-- [1 thumbs downs](https://github.com/deployphp/deployer/issues/1460)
-- [1 thumbs downs](https://github.com/taras-zak/tinyDB/issues/8)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -50,5 +50,6 @@
 <a href="my-badges/github-anniversary-15.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-15.png" alt="I joined GitHub 15 years ago." title="I joined GitHub 15 years ago." width="64"></a>
 <a href="my-badges/thumbs-up.md"><img src="https://my-badges.github.io/my-badges/thumbs-up.png" alt="I have received a lot of thumbs up 👍 reactions!" title="I have received a lot of thumbs up 👍 reactions!" width="64"></a>
 <a href="my-badges/thumbs-down.md"><img src="https://my-badges.github.io/my-badges/thumbs-down.png" alt="I have received a lot of thumbs down 👎 reactions!" title="I have received a lot of thumbs down 👎 reactions!" width="64"></a>
+<a href="my-badges/confused.md"><img src="https://my-badges.github.io/my-badges/confused.png" alt="I have received a lot of confused 😕 reactions!" title="I have received a lot of confused 😕 reactions!" width="64"></a>
 <!-- my-badges end -->
 

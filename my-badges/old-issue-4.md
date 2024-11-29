@@ -8,7 +8,6 @@ Issues:
 - <a href="https://github.com/hakimel/stroll.js/issues/24">#24</a>: onClick event on list items on iPhone.
 - <a href="https://github.com/ccampbell/rainbow/issues/101">#101</a>: Conflict with bootstrap class .close.
 - <a href="https://github.com/dnaber-de/WP-Colored-Coding/issues/4">#4</a>: Add Russian language!
-- <a href="https://github.com/dnaber-de/WP-Colored-Coding/issues/5">#5</a>: Code Blocks on 13'' sсreen
 - <a href="https://github.com/deployphp/deployer/issues/350">#350</a>: Web-based client
 - <a href="https://github.com/expr-lang/expr/issues/26">#26</a>: Optimize conditional jumps
 
