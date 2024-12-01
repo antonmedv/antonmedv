@@ -3,7 +3,7 @@
 <br><br>
 
 - [28 thumbs downs](https://github.com/deployphp/deployer/issues/1388#issuecomment-337669417)
-- [16 thumbs downs](https://github.com/google/zx/issues/24#issuecomment-841667224)
+- [17 thumbs downs](https://github.com/google/zx/issues/24#issuecomment-841667224)
 - [11 thumbs downs](https://github.com/deployphp/deployer/issues/797#issuecomment-250968370)
 - [9 thumbs downs](https://github.com/google/zx/issues/125#issuecomment-850432388)
 - [8 thumbs downs](https://github.com/symfony/symfony/issues/25643)

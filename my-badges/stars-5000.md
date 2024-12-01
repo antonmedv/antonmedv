@@ -28,7 +28,7 @@ Repos:
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★28</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★26</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
-* <a href="https://github.com/antonmedv/year">antonmedv/year: ★13</a>
+* <a href="https://github.com/antonmedv/year">antonmedv/year: ★14</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
 * <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
 * <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>

@@ -2,7 +2,7 @@
 <strong>I have received a lot of confused 😕 reactions!</strong>
 <br><br>
 
-- [13 confused reactions](https://github.com/google/zx/issues/24#issuecomment-841667224)
+- [14 confused reactions](https://github.com/google/zx/issues/24#issuecomment-841667224)
 - [9 confused reactions](https://github.com/google/zx/issues/43#issuecomment-841670916)
 - [4 confused reactions](https://github.com/google/zx/pull/63#issuecomment-840419047)
 - [3 confused reactions](https://github.com/antonmedv/monkberry/issues/19#issuecomment-270296692)
