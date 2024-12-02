@@ -44,5 +44,6 @@
 <a href="my-badges/thumbs-down-10.md"><img src="https://my-badges.github.io/my-badges/thumbs-down-10.png" alt="I got more than 10 thumbs down." title="I got more than 10 thumbs down." width="64"></a>
 <a href="my-badges/thumbs-up-10.md"><img src="https://my-badges.github.io/my-badges/thumbs-up-10.png" alt="I got more than 10 thumbs up." title="I got more than 10 thumbs up." width="64"></a>
 <a href="my-badges/thumbs-up-100.md"><img src="https://my-badges.github.io/my-badges/thumbs-up-100.png" alt="I got more than 100 thumbs up." title="I got more than 100 thumbs up." width="64"></a>
+<a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
 <!-- my-badges end -->
 

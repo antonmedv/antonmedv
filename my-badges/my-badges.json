@@ -313,5 +313,12 @@
     "desc": "I got more than 100 thumbs up.",
     "body": "* <a href=\"https://github.com/deployphp/deployer/issues/1118#issuecomment-296160569\">130 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-100.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/deployphp/deployer/issues/588\">👍</a>\n* <a href=\"https://github.com/symfony/symfony/issues/25643\">👍</a>\n* <a href=\"https://github.com/argoproj/argo-workflows/issues/2356\">👍</a>\n* <a href=\"https://github.com/Knetic/govaluate/issues/193\">👍</a>\n* <a href=\"https://github.com/deployphp/deployer/issues/126#issuecomment-288740129\">🎉</a>\n* <a href=\"https://github.com/deployphp/deployer/pull/330#issuecomment-289261275\">🎉</a>\n* <a href=\"https://github.com/deployphp/deployer/issues/928#issuecomment-364439724\">👍</a>\n* <a href=\"https://github.com/antonmedv/fx/issues/69#issuecomment-457791299\">👍</a>\n* <a href=\"https://github.com/kazzkiq/CodeFlask/issues/102#issuecomment-618186907\">❤️</a>\n* <a href=\"https://github.com/google/zx/issues/57#issuecomment-838737400\">🚀</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   }
 ]
