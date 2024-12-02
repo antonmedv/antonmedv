@@ -9,6 +9,7 @@ Pull requests:
 - <a href="https://github.com/my-badges/my-badges/pull/63">#63</a>
 - <a href="https://github.com/my-badges/my-badges/pull/66">#66</a>
 - <a href="https://github.com/my-badges/my-badges/pull/74">#74</a>
+- <a href="https://github.com/my-badges/my-badges/pull/80">#80</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
