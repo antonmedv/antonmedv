@@ -4,10 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/expr-lang/expr/commit/f383e06071d372e613aaa9b7329019c37b12159b">f383e06</a>: Fix panic in checker
-- <a href="https://github.com/expr-lang/expr/commit/87e38b17441fba0c5691cccf545ef835c74224c3">87e38b1</a>: Fix panic in checker
-- <a href="https://github.com/expr-lang/expr/commit/39c9df602b5b19499994b6a2568d3a171d897ac8">39c9df6</a>: Fix panic in checker
-- <a href="https://github.com/expr-lang/expr/commit/931dbf3ecd990b36ec980b97df4a522d65b1c021">931dbf3</a>: Fix date test
+- <a href="https://github.com/google/zx/commit/2ec0f0321fd43ceedd0287b96d07b674b2c34a6b">2ec0f03</a>: Fix circular dependencies
+- <a href="https://github.com/google/zx/commit/ce44ec9de833ad59721e76a3a4f1acfeb9ee8b32">ce44ec9</a>: Fix code style
+- <a href="https://github.com/google/zx/commit/1beb649160de2ce501d4c771a439f1094df3d5eb">1beb649</a>: Fix which import
+- <a href="https://github.com/google/zx/commit/ad7a2cb3d7a17987760fa8a7570c87cbff0275cc">ad7a2cb</a>: Fix exporting of log
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

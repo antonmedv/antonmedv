@@ -4,10 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/antonmedv/fx/commit/cacddc7bcb8af7c6692c3157de79a00906be67ef">cacddc7</a>: Fix pgdown for small JSON files
-
-Fixes #265
-- <a href="https://github.com/antonmedv/fx/commit/adf3775828157d903e3f32ab4023fe750fa85e68">adf3775</a>: Fix dig test
+- <a href="https://github.com/google/zx/commit/17bf4ed3ee6fbbe84782fd166ca7dbdd7166b013">17bf4ed</a>: Fix win32 workflow
+- <a href="https://github.com/google/zx/commit/663ee004525ad10070d166014367e2426f830478">663ee00</a>: Fix echo signature and add tsd test
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

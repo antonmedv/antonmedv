@@ -2,7 +2,6 @@
 <strong>I got more than 10 thumbs up.</strong>
 <br><br>
 
-* <a href="https://github.com/deployphp/deployer/issues/1118#issuecomment-296160569">53 👍</a>
 * <a href="https://github.com/deployphp/deployer/issues/1256#issuecomment-310354858">31 👍</a>
 * <a href="https://github.com/utterance/utterances/issues/1#issuecomment-315630670">21 👍</a>
 * <a href="https://github.com/utterance/utterances/issues/1#issuecomment-315991976">19 👍</a>
