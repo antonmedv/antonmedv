@@ -10,7 +10,6 @@
 * <a href="https://github.com/deployphp/deployer/pull/330#issuecomment-289261275">🎉</a>
 * <a href="https://github.com/deployphp/deployer/issues/928#issuecomment-364439724">👍</a>
 * <a href="https://github.com/antonmedv/fx/issues/69#issuecomment-457791299">👍</a>
-* <a href="https://github.com/kazzkiq/CodeFlask/issues/102#issuecomment-618186907">❤️</a>
 * <a href="https://github.com/google/zx/issues/57#issuecomment-838737400">🚀</a>
 
 
