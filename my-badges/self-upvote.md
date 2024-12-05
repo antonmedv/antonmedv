@@ -2,10 +2,10 @@
 <strong>I liked my own comment so much that I upvoted it.</strong>
 <br><br>
 
+* <a href="https://github.com/Knetic/govaluate/issues/193">👍</a>
 * <a href="https://github.com/deployphp/deployer/issues/588">👍</a>
 * <a href="https://github.com/symfony/symfony/issues/25643">👍</a>
 * <a href="https://github.com/argoproj/argo-workflows/issues/2356">👍</a>
-* <a href="https://github.com/Knetic/govaluate/issues/193">👍</a>
 * <a href="https://github.com/deployphp/deployer/issues/126#issuecomment-288740129">🎉</a>
 * <a href="https://github.com/deployphp/deployer/pull/330#issuecomment-289261275">🎉</a>
 * <a href="https://github.com/deployphp/deployer/issues/928#issuecomment-364439724">👍</a>
