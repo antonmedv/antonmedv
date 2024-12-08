@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1366</a>
-* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1077</a>
+* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1078</a>
 * <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★501</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★294</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★271</a>
@@ -13,7 +13,7 @@ Repos:
 * <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★180</a>
 * <a href="https://github.com/antonmedv/jsize">antonmedv/jsize: ★178</a>
 * <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★167</a>
-* <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★159</a>
+* <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★160</a>
 * <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★141</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★109</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★105</a>
