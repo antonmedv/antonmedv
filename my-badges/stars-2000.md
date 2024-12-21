@@ -28,9 +28,9 @@ Repos:
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
 * <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
 * <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>
-* <a href="https://github.com/antonmedv/list">antonmedv/list: ★9</a>
 * <a href="https://github.com/antonmedv/prettyjson">antonmedv/prettyjson: ★9</a>
 * <a href="https://github.com/antonmedv/kot">antonmedv/kot: ★9</a>
+* <a href="https://github.com/antonmedv/list">antonmedv/list: ★8</a>
 * <a href="https://github.com/antonmedv/blessed">antonmedv/blessed: ★8</a>
 * <a href="https://github.com/antonmedv/fx-theme-monokai">antonmedv/fx-theme-monokai: ★8</a>
 * <a href="https://github.com/antonmedv/clipboard">antonmedv/clipboard: ★8</a>
@@ -43,7 +43,6 @@ Repos:
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★2</a>
 * <a href="https://github.com/antonmedv/awesome-github-profile-readme">antonmedv/awesome-github-profile-readme: ★2</a>
 * <a href="https://github.com/antonmedv/awesome-readme-tools">antonmedv/awesome-readme-tools: ★2</a>
-* <a href="https://github.com/antonmedv/mx">antonmedv/mx: ★1</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
 * <a href="https://github.com/antonmedv/webpod-deployer">antonmedv/webpod-deployer: ★1</a>
 * <a href="https://github.com/antonmedv/oss-fuzz">antonmedv/oss-fuzz: ★1</a>
