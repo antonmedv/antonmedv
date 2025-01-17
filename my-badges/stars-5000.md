@@ -18,7 +18,7 @@ Repos:
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★109</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★105</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★88</a>
-* <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★72</a>
+* <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★73</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★62</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★57</a>
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★53</a>
