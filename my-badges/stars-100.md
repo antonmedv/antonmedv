@@ -18,12 +18,12 @@ Repos:
 * <a href="https://github.com/antonmedv/lazy-chain">antonmedv/lazy-chain: ★4</a>
 * <a href="https://github.com/antonmedv/morrow">antonmedv/morrow: ★3</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★2</a>
-* <a href="https://github.com/antonmedv/antonmedv">antonmedv/antonmedv: ★2</a>
 * <a href="https://github.com/antonmedv/awesome-github-profile-readme">antonmedv/awesome-github-profile-readme: ★2</a>
 * <a href="https://github.com/antonmedv/awesome-readme-tools">antonmedv/awesome-readme-tools: ★2</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
 * <a href="https://github.com/antonmedv/webpod-deployer">antonmedv/webpod-deployer: ★1</a>
 * <a href="https://github.com/antonmedv/oss-fuzz">antonmedv/oss-fuzz: ★1</a>
+* <a href="https://github.com/antonmedv/antonmedv">antonmedv/antonmedv: ★1</a>
 * <a href="https://github.com/antonmedv/argo-workflows">antonmedv/argo-workflows: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
