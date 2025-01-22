@@ -3,6 +3,7 @@
 <br><br>
 
 * <a href="https://github.com/Knetic/govaluate/issues/193">👍</a>
+* <a href="https://github.com/pypi/support/issues/5437">👍</a>
 * <a href="https://github.com/deployphp/deployer/issues/588">👍</a>
 * <a href="https://github.com/symfony/symfony/issues/25643">👍</a>
 * <a href="https://github.com/argoproj/argo-workflows/issues/2356">👍</a>
