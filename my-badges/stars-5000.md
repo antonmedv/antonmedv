@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1387</a>
+* <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1388</a>
 * <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1090</a>
 * <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★510</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★294</a>
