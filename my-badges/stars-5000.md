@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/antonmedv/finder">antonmedv/finder: ★1390</a>
-* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1091</a>
+* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1092</a>
 * <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★510</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★293</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★272</a>
@@ -28,8 +28,8 @@ Repos:
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★28</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★26</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★15</a>
 * <a href="https://github.com/antonmedv/year">antonmedv/year: ★14</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★13</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
 * <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
 * <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>
