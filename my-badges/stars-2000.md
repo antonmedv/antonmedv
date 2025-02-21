@@ -23,7 +23,7 @@ Repos:
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★40</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★28</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★26</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★22</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★23</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
 * <a href="https://github.com/antonmedv/year">antonmedv/year: ★14</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
@@ -43,12 +43,8 @@ Repos:
 * <a href="https://github.com/antonmedv/morrow">antonmedv/morrow: ★3</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★2</a>
 * <a href="https://github.com/antonmedv/antonmedv">antonmedv/antonmedv: ★2</a>
-* <a href="https://github.com/antonmedv/awesome-github-profile-readme">antonmedv/awesome-github-profile-readme: ★2</a>
-* <a href="https://github.com/antonmedv/awesome-readme-tools">antonmedv/awesome-readme-tools: ★2</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
 * <a href="https://github.com/antonmedv/webpod-deployer">antonmedv/webpod-deployer: ★1</a>
-* <a href="https://github.com/antonmedv/oss-fuzz">antonmedv/oss-fuzz: ★1</a>
-* <a href="https://github.com/antonmedv/argo-workflows">antonmedv/argo-workflows: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
