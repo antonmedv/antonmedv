@@ -14,7 +14,7 @@ Repos:
 * <a href="https://github.com/antonmedv/jsize">antonmedv/jsize: ★178</a>
 * <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★167</a>
 * <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★162</a>
-* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★142</a>
+* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★143</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★109</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★105</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★88</a>
@@ -27,7 +27,7 @@ Repos:
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★40</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★28</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★26</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★25</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★26</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
 * <a href="https://github.com/antonmedv/year">antonmedv/year: ★14</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
