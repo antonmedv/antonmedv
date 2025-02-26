@@ -11,8 +11,8 @@ Repos:
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★48</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★40</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★28</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★28</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★26</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★26</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
 * <a href="https://github.com/antonmedv/year">antonmedv/year: ★14</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
