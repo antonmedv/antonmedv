@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/console">antonmedv/console: ★271</a>
+* <a href="https://github.com/antonmedv/console">antonmedv/console: ★272</a>
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★232</a>
 * <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★181</a>
 * <a href="https://github.com/antonmedv/jsize">antonmedv/jsize: ★178</a>
