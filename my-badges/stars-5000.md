@@ -12,7 +12,7 @@ Repos:
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★232</a>
 * <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★181</a>
 * <a href="https://github.com/antonmedv/jsize">antonmedv/jsize: ★178</a>
-* <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★167</a>
+* <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★166</a>
 * <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★162</a>
 * <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★145</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★109</a>
