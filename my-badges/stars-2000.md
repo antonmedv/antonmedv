@@ -4,13 +4,12 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/console">antonmedv/console: ★272</a>
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★232</a>
 * <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★181</a>
 * <a href="https://github.com/antonmedv/jsize">antonmedv/jsize: ★178</a>
 * <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★166</a>
 * <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★162</a>
-* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★144</a>
+* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★145</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★109</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★104</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★87</a>
@@ -45,6 +44,7 @@ Repos:
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★2</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
 * <a href="https://github.com/antonmedv/webpod-deployer">antonmedv/webpod-deployer: ★1</a>
+* <a href="https://github.com/antonmedv/zizmor">antonmedv/zizmor: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
