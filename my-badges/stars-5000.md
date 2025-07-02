@@ -21,7 +21,7 @@ Repos:
 * <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★74</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★62</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★58</a>
-* <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★53</a>
+* <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★52</a>
 * <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★51</a>
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★50</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★48</a>
