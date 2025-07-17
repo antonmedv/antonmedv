@@ -4,7 +4,7 @@
 
 * <a href="https://github.com/deployphp/deployer/issues/1256#issuecomment-310354858">31 👍</a>
 * <a href="https://github.com/utterance/utterances/issues/1#issuecomment-315630670">23 👍</a>
-* <a href="https://github.com/utterance/utterances/issues/1#issuecomment-315991976">21 👍</a>
+* <a href="https://github.com/utterance/utterances/issues/1#issuecomment-315991976">22 👍</a>
 * <a href="https://github.com/DefinitelyTyped/DefinitelyTyped/issues/17181#issuecomment-340244326">18 👍</a>
 * <a href="https://github.com/symfony/symfony/issues/25643">16 👍</a>
 * <a href="https://github.com/deployphp/deployer/issues/1256#issuecomment-321991581">16 👍</a>
