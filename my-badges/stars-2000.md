@@ -6,7 +6,7 @@ Repos:
 
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★232</a>
 * <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★181</a>
-* <a href="https://github.com/antonmedv/jsize">antonmedv/jsize: ★178</a>
+* <a href="https://github.com/antonmedv/jsize">antonmedv/jsize: ★177</a>
 * <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★166</a>
 * <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★163</a>
 * <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★147</a>
@@ -16,8 +16,8 @@ Repos:
 * <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★74</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★62</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★58</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★53</a>
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★52</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★52</a>
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★50</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★48</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★40</a>
