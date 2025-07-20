@@ -4,14 +4,14 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★147</a>
+* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★148</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★109</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★104</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★87</a>
 * <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★74</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★62</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★58</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★54</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★55</a>
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★52</a>
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★50</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★48</a>
