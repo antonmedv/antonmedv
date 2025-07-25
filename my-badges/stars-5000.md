@@ -14,11 +14,11 @@ Repos:
 * <a href="https://github.com/antonmedv/jsize">antonmedv/jsize: ★177</a>
 * <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★166</a>
 * <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★164</a>
-* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★148</a>
+* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★149</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★109</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★104</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★87</a>
-* <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★74</a>
+* <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★75</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★62</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★58</a>
 * <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★56</a>
