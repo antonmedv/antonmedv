@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★149</a>
+* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★150</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★109</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★104</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★87</a>
