@@ -4,7 +4,7 @@
 
 * <a href="https://github.com/deployphp/deployer/issues/1388#issuecomment-337669417">28 👎</a>
 * <a href="https://github.com/google/zx/issues/24#issuecomment-841667224">17 👎</a>
-* <a href="https://github.com/deployphp/deployer/issues/797#issuecomment-250968370">11 👎</a>
+* <a href="https://github.com/deployphp/deployer/issues/797#issuecomment-250968370">12 👎</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
