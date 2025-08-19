@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/google/zx/commit/17bf4ed3ee6fbbe84782fd166ca7dbdd7166b013">17bf4ed</a>: Fix win32 workflow
-- <a href="https://github.com/google/zx/commit/663ee004525ad10070d166014367e2426f830478">663ee00</a>: Fix echo signature and add tsd test
+- <a href="https://github.com/antonmedv/ll/commit/c6763469d80c7b4174c42fa34e8c1d7df097274e">c676346</a>: fix subpath detection
+- <a href="https://github.com/antonmedv/ll/commit/3b47d1eebe718e6d8401b5ad21683037e44f4ba1">3b47d1e</a>: fix typo in comment
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
