@@ -15,14 +15,14 @@ Repos:
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★87</a>
 * <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★74</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★62</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★61</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★62</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★58</a>
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★51</a>
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★50</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★49</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★40</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★27</a>
-* <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★26</a>
+* <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★27</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
 * <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
