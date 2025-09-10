@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/webpod/jout">webpod/jout: ★10</a>
+* <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>
 * <a href="https://github.com/antonmedv/prettyjson">antonmedv/prettyjson: ★9</a>
 * <a href="https://github.com/antonmedv/kot">antonmedv/kot: ★9</a>
 * <a href="https://github.com/antonmedv/list">antonmedv/list: ★8</a>
