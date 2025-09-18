@@ -9,7 +9,7 @@ Repos:
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★103</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★87</a>
 * <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★74</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★64</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★65</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★61</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★58</a>
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★51</a>
@@ -19,7 +19,7 @@ Repos:
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★28</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★27</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
-* <a href="https://github.com/webpod/jout">webpod/jout: ★12</a>
+* <a href="https://github.com/webpod/jout">webpod/jout: ★13</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
 * <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
 * <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>
