@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★233</a>
-* <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★182</a>
+* <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★183</a>
 * <a href="https://github.com/antonmedv/jsize">antonmedv/jsize: ★178</a>
 * <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★166</a>
 * <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★164</a>
