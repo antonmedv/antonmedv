@@ -25,6 +25,7 @@ Repos:
 * <a href="https://github.com/antonmedv/fx-theme-monokai">antonmedv/fx-theme-monokai: ★8</a>
 * <a href="https://github.com/antonmedv/granula">antonmedv/granula: ★7</a>
 * <a href="https://github.com/antonmedv/fx-theme-night">antonmedv/fx-theme-night: ★6</a>
+* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★6</a>
 * <a href="https://github.com/antonmedv/find-npm-name">antonmedv/find-npm-name: ★5</a>
 * <a href="https://github.com/antonmedv/mustcheck">antonmedv/mustcheck: ★5</a>
 * <a href="https://github.com/antonmedv/antonmedv">antonmedv/antonmedv: ★5</a>
