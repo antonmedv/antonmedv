@@ -16,8 +16,8 @@ Repos:
 * <a href="https://github.com/antonmedv/find-npm-name">antonmedv/find-npm-name: ★5</a>
 * <a href="https://github.com/antonmedv/mustcheck">antonmedv/mustcheck: ★5</a>
 * <a href="https://github.com/antonmedv/antonmedv">antonmedv/antonmedv: ★5</a>
+* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★5</a>
 * <a href="https://github.com/antonmedv/lazy-chain">antonmedv/lazy-chain: ★4</a>
-* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★4</a>
 * <a href="https://github.com/antonmedv/morrow">antonmedv/morrow: ★3</a>
 * <a href="https://github.com/antonmedv/year">antonmedv/year: ★3</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★2</a>

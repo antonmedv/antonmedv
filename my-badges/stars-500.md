@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★58</a>
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★53</a>
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★51</a>
-* <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★50</a>
+* <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★51</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★40</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★28</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★27</a>
@@ -28,8 +28,8 @@ Repos:
 * <a href="https://github.com/antonmedv/find-npm-name">antonmedv/find-npm-name: ★5</a>
 * <a href="https://github.com/antonmedv/mustcheck">antonmedv/mustcheck: ★5</a>
 * <a href="https://github.com/antonmedv/antonmedv">antonmedv/antonmedv: ★5</a>
+* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★5</a>
 * <a href="https://github.com/antonmedv/lazy-chain">antonmedv/lazy-chain: ★4</a>
-* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★4</a>
 * <a href="https://github.com/antonmedv/morrow">antonmedv/morrow: ★3</a>
 * <a href="https://github.com/antonmedv/year">antonmedv/year: ★3</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★2</a>
