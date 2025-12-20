@@ -28,10 +28,10 @@ Repos:
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
 * <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
 * <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>
+* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★10</a>
 * <a href="https://github.com/antonmedv/prettyjson">antonmedv/prettyjson: ★9</a>
 * <a href="https://github.com/antonmedv/kot">antonmedv/kot: ★9</a>
 * <a href="https://github.com/antonmedv/clipboard">antonmedv/clipboard: ★9</a>
-* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★9</a>
 * <a href="https://github.com/antonmedv/list">antonmedv/list: ★8</a>
 * <a href="https://github.com/antonmedv/blessed">antonmedv/blessed: ★8</a>
 * <a href="https://github.com/antonmedv/fx-theme-monokai">antonmedv/fx-theme-monokai: ★8</a>
