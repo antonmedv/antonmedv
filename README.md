@@ -59,5 +59,6 @@
 
 ---
 
-I have many interesting projects!  
-Please, check them out on [my website](https://medv.io/projects).
+> [!TIP]
+> I have many interesting projects!  
+> Please, check them out on [***my website***](https://medv.io/projects).
