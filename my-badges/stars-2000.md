@@ -50,6 +50,7 @@ Repos:
 * <a href="https://github.com/antonmedv/zizmor">antonmedv/zizmor: ★1</a>
 * <a href="https://github.com/antonmedv/labyrinth">antonmedv/labyrinth: ★1</a>
 * <a href="https://github.com/antonmedv/gld">antonmedv/gld: ★1</a>
+* <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
