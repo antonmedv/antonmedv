@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1208</a>
+* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1210</a>
 * <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1193</a>
 * <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★542</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★297</a>
@@ -29,7 +29,7 @@ Repos:
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★29</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★27</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
-* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★15</a>
+* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★16</a>
 * <a href="https://github.com/webpod/jout">webpod/jout: ★12</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
 * <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
