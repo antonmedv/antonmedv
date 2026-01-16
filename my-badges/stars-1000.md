@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★109</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★103</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★87</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★82</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★84</a>
 * <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★74</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★61</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★59</a>
@@ -34,9 +34,9 @@ Repos:
 * <a href="https://github.com/antonmedv/antonmedv">antonmedv/antonmedv: ★6</a>
 * <a href="https://github.com/antonmedv/find-npm-name">antonmedv/find-npm-name: ★5</a>
 * <a href="https://github.com/antonmedv/mustcheck">antonmedv/mustcheck: ★5</a>
+* <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★5</a>
 * <a href="https://github.com/antonmedv/lazy-chain">antonmedv/lazy-chain: ★4</a>
 * <a href="https://github.com/antonmedv/year">antonmedv/year: ★4</a>
-* <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★4</a>
 * <a href="https://github.com/antonmedv/morrow">antonmedv/morrow: ★3</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★2</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
