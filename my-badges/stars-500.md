@@ -5,13 +5,13 @@
 Repos:
 
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★59</a>
-* <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★54</a>
+* <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★55</a>
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★51</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★51</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★40</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★30</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★27</a>
-* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★23</a>
+* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★24</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
 * <a href="https://github.com/webpod/jout">webpod/jout: ★12</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
@@ -23,9 +23,9 @@ Repos:
 * <a href="https://github.com/antonmedv/list">antonmedv/list: ★8</a>
 * <a href="https://github.com/antonmedv/blessed">antonmedv/blessed: ★8</a>
 * <a href="https://github.com/antonmedv/fx-theme-monokai">antonmedv/fx-theme-monokai: ★8</a>
+* <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★8</a>
 * <a href="https://github.com/antonmedv/granula">antonmedv/granula: ★7</a>
 * <a href="https://github.com/antonmedv/antonmedv">antonmedv/antonmedv: ★7</a>
-* <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★7</a>
 * <a href="https://github.com/antonmedv/fx-theme-night">antonmedv/fx-theme-night: ★6</a>
 * <a href="https://github.com/antonmedv/find-npm-name">antonmedv/find-npm-name: ★5</a>
 * <a href="https://github.com/antonmedv/mustcheck">antonmedv/mustcheck: ★5</a>
