@@ -5,8 +5,8 @@
 Repos:
 
 * <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1249</a>
-* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1198</a>
-* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★547</a>
+* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1199</a>
+* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★548</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★299</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★272</a>
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★233</a>
@@ -18,11 +18,11 @@ Repos:
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★109</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★103</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★88</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★86</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★88</a>
 * <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★74</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★61</a>
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★59</a>
-* <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★55</a>
+* <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★56</a>
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★51</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★51</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★40</a>
@@ -31,13 +31,13 @@ Repos:
 * <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★25</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
 * <a href="https://github.com/webpod/jout">webpod/jout: ★12</a>
+* <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★11</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
 * <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
 * <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>
 * <a href="https://github.com/antonmedv/prettyjson">antonmedv/prettyjson: ★9</a>
 * <a href="https://github.com/antonmedv/kot">antonmedv/kot: ★9</a>
 * <a href="https://github.com/antonmedv/clipboard">antonmedv/clipboard: ★9</a>
-* <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★9</a>
 * <a href="https://github.com/antonmedv/list">antonmedv/list: ★8</a>
 * <a href="https://github.com/antonmedv/blessed">antonmedv/blessed: ★8</a>
 * <a href="https://github.com/antonmedv/fx-theme-monokai">antonmedv/fx-theme-monokai: ★8</a>
@@ -50,12 +50,12 @@ Repos:
 * <a href="https://github.com/antonmedv/year">antonmedv/year: ★4</a>
 * <a href="https://github.com/antonmedv/morrow">antonmedv/morrow: ★3</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★2</a>
+* <a href="https://github.com/antonmedv/labyrinth">antonmedv/labyrinth: ★2</a>
+* <a href="https://github.com/antonmedv/gld">antonmedv/gld: ★2</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
 * <a href="https://github.com/antonmedv/.github">antonmedv/.github: ★1</a>
 * <a href="https://github.com/antonmedv/webpod-deployer">antonmedv/webpod-deployer: ★1</a>
 * <a href="https://github.com/antonmedv/zizmor">antonmedv/zizmor: ★1</a>
-* <a href="https://github.com/antonmedv/labyrinth">antonmedv/labyrinth: ★1</a>
-* <a href="https://github.com/antonmedv/gld">antonmedv/gld: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
