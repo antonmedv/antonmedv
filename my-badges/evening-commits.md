@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/antonmedv/fx/commit/719d1ad1219713881484475ce1b44582a6b52f0a">719d1ad</a>
+- <a href="https://github.com/antonmedv/fx/commit/e0ed17e032cb41b4b5d8fc6c2b3dc4e5eb660754">e0ed17e</a>
+- <a href="https://github.com/antonmedv/fx/commit/bf29182c9c2bd901facfa72a660dc095b647e771">bf29182</a>
+- <a href="https://github.com/antonmedv/fx/commit/7da0139088697458e33d4fca2b3ebf83194b670e">7da0139</a>
 - <a href="https://github.com/antonmedv/fx/commit/086f4d9efb7a9af3bc6398571da564d0f1c670ce">086f4d9</a>
 - <a href="https://github.com/antonmedv/fx/commit/37d6d6eaa197e6127f59c3aa00d5843d2dbcf776">37d6d6e</a>
-- <a href="https://github.com/antonmedv/fx/commit/ebe60e709710b14742ef1ebb552c8a8d368c5045">ebe60e7</a>
-- <a href="https://github.com/antonmedv/wiki/commit/0d47dc2ef3a15a5496a3f7c124dba77fb1cbb4dc">0d47dc2</a>
-- <a href="https://github.com/antonmedv/wiki/commit/6f28e2a7c0402b5fa44c682071c63439f82ba29a">6f28e2a</a>
-- <a href="https://github.com/antonmedv/wiki/commit/208f21c7e79959de7d7a09b9b344dc952723e764">208f21c</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
