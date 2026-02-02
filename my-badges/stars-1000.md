@@ -15,10 +15,10 @@ Repos:
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★51</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★51</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★40</a>
+* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★31</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★30</a>
-* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★29</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★27</a>
-* <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★23</a>
+* <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★24</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
 * <a href="https://github.com/webpod/jout">webpod/jout: ★12</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
