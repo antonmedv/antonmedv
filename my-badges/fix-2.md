@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/google/zx/commit/17bf4ed3ee6fbbe84782fd166ca7dbdd7166b013">17bf4ed</a>: Fix win32 workflow
-- <a href="https://github.com/google/zx/commit/663ee004525ad10070d166014367e2426f830478">663ee00</a>: Fix echo signature and add tsd test
+- <a href="https://github.com/antonmedv/textarea/commit/4e9cdd6f1d3feb111707cac8a5490975998c1efd">4e9cdd6</a>: Fix link formatting in README.md
+- <a href="https://github.com/antonmedv/textarea/commit/0287010031b096c88b3650e8ec04387379a3a909">0287010</a>: Fix typo in website name from 'Number' to 'Numbr'
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
