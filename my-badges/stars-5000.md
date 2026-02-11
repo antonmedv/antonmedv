@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1274</a>
-* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1201</a>
+* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1275</a>
+* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1202</a>
 * <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★554</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★299</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★272</a>
@@ -26,7 +26,7 @@ Repos:
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★51</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★51</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★40</a>
-* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★31</a>
+* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★32</a>
 * <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★31</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★30</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★27</a>
