@@ -4,10 +4,10 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1275</a>
-* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1202</a>
-* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★555</a>
-* <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★299</a>
+* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1276</a>
+* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1203</a>
+* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★556</a>
+* <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★300</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★271</a>
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★233</a>
 * <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★185</a>
@@ -17,7 +17,7 @@ Repos:
 * <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★156</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★108</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★103</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★94</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★96</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★88</a>
 * <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★74</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★62</a>
