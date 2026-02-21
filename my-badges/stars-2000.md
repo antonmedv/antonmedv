@@ -20,13 +20,13 @@ Repos:
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★56</a>
 * <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★51</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★51</a>
-* <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★40</a>
+* <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★39</a>
 * <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★33</a>
 * <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★31</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★30</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★27</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
-* <a href="https://github.com/webpod/jout">webpod/jout: ★12</a>
+* <a href="https://github.com/webpod/jout">webpod/jout: ★11</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
 * <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
 * <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>
