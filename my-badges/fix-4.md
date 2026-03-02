@@ -4,10 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/google/zx/commit/2ec0f0321fd43ceedd0287b96d07b674b2c34a6b">2ec0f03</a>: Fix circular dependencies
-- <a href="https://github.com/google/zx/commit/ce44ec9de833ad59721e76a3a4f1acfeb9ee8b32">ce44ec9</a>: Fix code style
-- <a href="https://github.com/google/zx/commit/1beb649160de2ce501d4c771a439f1094df3d5eb">1beb649</a>: Fix which import
-- <a href="https://github.com/google/zx/commit/ad7a2cb3d7a17987760fa8a7570c87cbff0275cc">ad7a2cb</a>: Fix exporting of log
+- <a href="https://github.com/antonmedv/crow.watch/commit/d6719a25256f9c295d37e5ca150a0185d4f44fc4">d6719a2</a>: Fix CI
+- <a href="https://github.com/antonmedv/crow.watch/commit/b1727fb1768a428fe13debbffc82cb8824fd83fb">b1727fb</a>: Fix CI
+- <a href="https://github.com/antonmedv/crow.watch/commit/ee206cf1e230205be31ceaee78fff97f710f6a6b">ee206cf</a>: Fix CI
+- <a href="https://github.com/antonmedv/crow.watch/commit/3165d0c48fc7a92891985926a6645a59ca7d0541">3165d0c</a>: Fix CI
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
