@@ -4,10 +4,10 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1290</a>
+* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1289</a>
 * <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1207</a>
 * <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★562</a>
-* <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★300</a>
+* <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★299</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★271</a>
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★233</a>
 * <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★185</a>
@@ -52,6 +52,7 @@ Repos:
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★2</a>
 * <a href="https://github.com/antonmedv/labyrinth">antonmedv/labyrinth: ★2</a>
 * <a href="https://github.com/antonmedv/gld">antonmedv/gld: ★2</a>
+* <a href="https://github.com/antonmedv/crow.watch">antonmedv/crow.watch: ★2</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
 * <a href="https://github.com/antonmedv/.github">antonmedv/.github: ★1</a>
 * <a href="https://github.com/antonmedv/webpod-deployer">antonmedv/webpod-deployer: ★1</a>

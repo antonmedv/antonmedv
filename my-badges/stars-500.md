@@ -35,6 +35,7 @@ Repos:
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★2</a>
 * <a href="https://github.com/antonmedv/labyrinth">antonmedv/labyrinth: ★2</a>
 * <a href="https://github.com/antonmedv/gld">antonmedv/gld: ★2</a>
+* <a href="https://github.com/antonmedv/crow.watch">antonmedv/crow.watch: ★2</a>
 * <a href="https://github.com/antonmedv/tto">antonmedv/tto: ★1</a>
 * <a href="https://github.com/antonmedv/.github">antonmedv/.github: ★1</a>
 * <a href="https://github.com/antonmedv/webpod-deployer">antonmedv/webpod-deployer: ★1</a>
