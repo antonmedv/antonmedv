@@ -65,3 +65,12 @@
 > [!TIP]
 > I have many interesting projects!  
 > Please, check them out on [***my website***](https://medv.io/projects).
+
+<hr>
+<p>
+  <a href="https://crow.watch"><img align="left" src="https://crow.watch/static/logo-rounded.png" alt="Crow Watch" width="140" height="140"></a>
+  <h3>Crow Watch</h3>
+  A computing-focused community.
+</p>
+<p>Join at <strong><a href="https://crow.watch/join/antonmedv">crow.watch/join/antonmedv</a></strong></p>
+<p>Share great links, cool code, and new tools.</p>
