@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1288</a>
-* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1208</a>
+* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1289</a>
+* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1209</a>
 * <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★562</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★299</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★271</a>
@@ -17,7 +17,7 @@ Repos:
 * <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★156</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★108</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★103</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★98</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★99</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★88</a>
 * <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★74</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★62</a>
