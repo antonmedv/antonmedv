@@ -4,12 +4,12 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1290</a>
+* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1291</a>
 * <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1210</a>
-* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★563</a>
+* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★564</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★299</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★271</a>
-* <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★233</a>
+* <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★232</a>
 * <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★185</a>
 * <a href="https://github.com/antonmedv/jsize">antonmedv/jsize: ★178</a>
 * <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★166</a>
