@@ -4,9 +4,9 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1291</a>
+* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1292</a>
 * <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1210</a>
-* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★565</a>
+* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★566</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★299</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★270</a>
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★232</a>
@@ -35,10 +35,10 @@ Repos:
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
 * <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
 * <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>
+* <a href="https://github.com/antonmedv/crow.watch">antonmedv/crow.watch: ★10</a>
 * <a href="https://github.com/antonmedv/prettyjson">antonmedv/prettyjson: ★9</a>
 * <a href="https://github.com/antonmedv/kot">antonmedv/kot: ★9</a>
 * <a href="https://github.com/antonmedv/clipboard">antonmedv/clipboard: ★9</a>
-* <a href="https://github.com/antonmedv/crow.watch">antonmedv/crow.watch: ★9</a>
 * <a href="https://github.com/antonmedv/list">antonmedv/list: ★8</a>
 * <a href="https://github.com/antonmedv/blessed">antonmedv/blessed: ★8</a>
 * <a href="https://github.com/antonmedv/fx-theme-monokai">antonmedv/fx-theme-monokai: ★8</a>
