@@ -15,10 +15,10 @@ Repos:
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★27</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
 * <a href="https://github.com/webpod/jout">webpod/jout: ★11</a>
+* <a href="https://github.com/antonmedv/crow.watch">antonmedv/crow.watch: ★11</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
 * <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
 * <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>
-* <a href="https://github.com/antonmedv/crow.watch">antonmedv/crow.watch: ★10</a>
 * <a href="https://github.com/antonmedv/prettyjson">antonmedv/prettyjson: ★9</a>
 * <a href="https://github.com/antonmedv/kot">antonmedv/kot: ★9</a>
 * <a href="https://github.com/antonmedv/clipboard">antonmedv/clipboard: ★9</a>
