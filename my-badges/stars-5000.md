@@ -12,8 +12,8 @@ Repos:
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★232</a>
 * <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★185</a>
 * <a href="https://github.com/antonmedv/jsize">antonmedv/jsize: ★178</a>
+* <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★167</a>
 * <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★166</a>
-* <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★166</a>
 * <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★156</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★108</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★103</a>
@@ -31,8 +31,8 @@ Repos:
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★30</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★27</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
+* <a href="https://github.com/antonmedv/crow.watch">antonmedv/crow.watch: ★12</a>
 * <a href="https://github.com/webpod/jout">webpod/jout: ★11</a>
-* <a href="https://github.com/antonmedv/crow.watch">antonmedv/crow.watch: ★11</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
 * <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
 * <a href="https://github.com/antonmedv/gatsby-source-google-analytics-reporting-api">antonmedv/gatsby-source-google-analytics-reporting-api: ★10</a>
@@ -57,6 +57,7 @@ Repos:
 * <a href="https://github.com/antonmedv/.github">antonmedv/.github: ★1</a>
 * <a href="https://github.com/antonmedv/webpod-deployer">antonmedv/webpod-deployer: ★1</a>
 * <a href="https://github.com/antonmedv/zizmor">antonmedv/zizmor: ★1</a>
+* <a href="https://github.com/antonmedv/json-examples">antonmedv/json-examples: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
