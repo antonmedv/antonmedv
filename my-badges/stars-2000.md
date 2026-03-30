@@ -9,7 +9,7 @@ Repos:
 * <a href="https://github.com/antonmedv/jsize">antonmedv/jsize: ★178</a>
 * <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★167</a>
 * <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★166</a>
-* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★156</a>
+* <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★155</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★108</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★103</a>
 * <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★102</a>
