@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★108</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★104</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★105</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★103</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★88</a>
 * <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★74</a>
@@ -13,7 +13,7 @@ Repos:
 * <a href="https://github.com/antonmedv/fast-json">antonmedv/fast-json: ★59</a>
 * <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★55</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★52</a>
-* <a href="https://github.com/antonmedv/chat">antonmedv/chat: ★51</a>
+* <a href="https://github.com/antonmedv/chat.php">antonmedv/chat.php: ★51</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★39</a>
 * <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★36</a>
 * <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★31</a>
