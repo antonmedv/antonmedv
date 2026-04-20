@@ -4,9 +4,9 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1300</a>
+* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1301</a>
 * <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1215</a>
-* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★569</a>
+* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★570</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★299</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★269</a>
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★232</a>
