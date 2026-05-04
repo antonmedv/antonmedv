@@ -9,7 +9,7 @@ Repos:
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★53</a>
 * <a href="https://github.com/antonmedv/chat.php">antonmedv/chat.php: ★51</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★39</a>
-* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★36</a>
+* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★37</a>
 * <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★31</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★30</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★27</a>

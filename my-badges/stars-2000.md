@@ -12,7 +12,7 @@ Repos:
 * <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★155</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★108</a>
 * <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★106</a>
-* <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★103</a>
+* <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★102</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★88</a>
 * <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★74</a>
 * <a href="https://github.com/antonmedv/webcrypt">antonmedv/webcrypt: ★62</a>
@@ -21,7 +21,7 @@ Repos:
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★53</a>
 * <a href="https://github.com/antonmedv/chat.php">antonmedv/chat.php: ★51</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★39</a>
-* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★36</a>
+* <a href="https://github.com/antonmedv/srf">antonmedv/srf: ★37</a>
 * <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★31</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★30</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★27</a>
