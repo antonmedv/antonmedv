@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★232</a>
-* <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★185</a>
+* <a href="https://github.com/antonmedv/ultra-tiny-compiler">antonmedv/ultra-tiny-compiler: ★186</a>
 * <a href="https://github.com/antonmedv/jsize">antonmedv/jsize: ★178</a>
 * <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★167</a>
 * <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★166</a>
@@ -25,8 +25,8 @@ Repos:
 * <a href="https://github.com/antonmedv/wiki">antonmedv/wiki: ★31</a>
 * <a href="https://github.com/antonmedv/damka">antonmedv/damka: ★30</a>
 * <a href="https://github.com/antonmedv/homer">antonmedv/homer: ★27</a>
+* <a href="https://github.com/antonmedv/crow.watch">antonmedv/crow.watch: ★17</a>
 * <a href="https://github.com/antonmedv/svg-embed">antonmedv/svg-embed: ★16</a>
-* <a href="https://github.com/antonmedv/crow.watch">antonmedv/crow.watch: ★16</a>
 * <a href="https://github.com/webpod/jout">webpod/jout: ★11</a>
 * <a href="https://github.com/antonmedv/silicone">antonmedv/silicone: ★10</a>
 * <a href="https://github.com/antonmedv/is-it-cloudy">antonmedv/is-it-cloudy: ★10</a>
