@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★55</a>
+* <a href="https://github.com/antonmedv/golang-expression-evaluation-comparison">antonmedv/golang-expression-evaluation-comparison: ★54</a>
 * <a href="https://github.com/antonmedv/ll">antonmedv/ll: ★53</a>
 * <a href="https://github.com/antonmedv/chat.php">antonmedv/chat.php: ★51</a>
 * <a href="https://github.com/antonmedv/asciitree">antonmedv/asciitree: ★39</a>
