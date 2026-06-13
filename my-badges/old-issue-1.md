@@ -16,8 +16,6 @@ Issues:
 - <a href="https://github.com/js2coffee/js2coffee/issues/371">#371</a>: Empty loops
 - <a href="https://github.com/bigwhoop/sentence-breaker/issues/1">#1</a>: Add Russian language support
 - <a href="https://github.com/h5bp/lazyweb-requests/issues/180">#180</a>: DOM template engine with "updaters".
-- <a href="https://github.com/jindw/xmldom/issues/133">#133</a>: nodeValue in toString
-- <a href="https://github.com/browserify/browserify/issues/1411">#1411</a>: How to write transform with support for source maps?
 - <a href="https://github.com/thlorenz/convert-source-map/issues/33">#33</a>: Fail toComment with included content.
 - <a href="https://github.com/baryshev/template-benchmark/issues/16">#16</a>: Add Monkberry
 - <a href="https://github.com/deployphp/deployer/issues/1487">#1487</a>: Add ['override' => true] option in task

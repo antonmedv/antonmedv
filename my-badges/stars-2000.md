@@ -10,8 +10,8 @@ Repos:
 * <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★167</a>
 * <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★167</a>
 * <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★155</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★109</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★108</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★108</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★101</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★88</a>
 * <a href="https://github.com/antonmedv/tinysh">antonmedv/tinysh: ★74</a>
