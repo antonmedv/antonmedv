@@ -4,9 +4,9 @@
 
 Repos:
 
-* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1331</a>
-* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1274</a>
-* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★575</a>
+* <a href="https://github.com/antonmedv/gitmal">antonmedv/gitmal: ★1330</a>
+* <a href="https://github.com/antonmedv/countdown">antonmedv/countdown: ★1277</a>
+* <a href="https://github.com/antonmedv/numbr">antonmedv/numbr: ★576</a>
 * <a href="https://github.com/antonmedv/eat">antonmedv/eat: ★297</a>
 * <a href="https://github.com/antonmedv/console">antonmedv/console: ★269</a>
 * <a href="https://github.com/antonmedv/gofx">antonmedv/gofx: ★232</a>
@@ -15,7 +15,7 @@ Repos:
 * <a href="https://github.com/antonmedv/fx-completion">antonmedv/fx-completion: ★167</a>
 * <a href="https://github.com/antonmedv/watch">antonmedv/watch: ★167</a>
 * <a href="https://github.com/antonmedv/spark">antonmedv/spark: ★155</a>
-* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★109</a>
+* <a href="https://github.com/antonmedv/howto">antonmedv/howto: ★110</a>
 * <a href="https://github.com/antonmedv/cherimola">antonmedv/cherimola: ★108</a>
 * <a href="https://github.com/antonmedv/silicone-skeleton">antonmedv/silicone-skeleton: ★101</a>
 * <a href="https://github.com/antonmedv/purephp">antonmedv/purephp: ★88</a>
