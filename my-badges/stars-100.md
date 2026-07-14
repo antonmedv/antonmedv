@@ -15,9 +15,9 @@ Repos:
 * <a href="https://github.com/antonmedv/fx-theme-night">antonmedv/fx-theme-night: ★6</a>
 * <a href="https://github.com/antonmedv/find-npm-name">antonmedv/find-npm-name: ★5</a>
 * <a href="https://github.com/antonmedv/mustcheck">antonmedv/mustcheck: ★5</a>
+* <a href="https://github.com/antonmedv/json-examples">antonmedv/json-examples: ★5</a>
 * <a href="https://github.com/antonmedv/lazy-chain">antonmedv/lazy-chain: ★4</a>
 * <a href="https://github.com/antonmedv/year">antonmedv/year: ★4</a>
-* <a href="https://github.com/antonmedv/json-examples">antonmedv/json-examples: ★4</a>
 * <a href="https://github.com/antonmedv/morrow">antonmedv/morrow: ★3</a>
 * <a href="https://github.com/antonmedv/numbr.dev">antonmedv/numbr.dev: ★2</a>
 * <a href="https://github.com/antonmedv/labyrinth">antonmedv/labyrinth: ★2</a>
